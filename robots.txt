@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://jerrytron.com/sitemap.xml

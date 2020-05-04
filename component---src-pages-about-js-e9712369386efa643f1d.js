@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"3XHS":function(n,e,o){"use strict";o.r(e);o("q1tI");var t=o("Bl7J"),u=o("qKvR");e.default=function(){return Object(u.a)(t.a,null,Object(u.a)("h1",null,"About me"),Object(u.a)("p",null,"I’m good enough, I’m smart enough, and gosh darn it, people like me!"))}}}]);
-//# sourceMappingURL=component---src-pages-about-js-e9712369386efa643f1d.js.map

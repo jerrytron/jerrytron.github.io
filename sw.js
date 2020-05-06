@@ -253,7 +253,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/burning-ritual/page-data.json",
-    "revision": "027e68de6a088575c1b1088677714e45"
+    "revision": "da03b2a96c3c86bdc6a10fdb18cd5f79"
   },
   {
     "url": "page-data/projects/channel/page-data.json",
@@ -553,7 +553,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/burning-ritual/index.html",
-    "revision": "6a8d16e4e7c9fa328130d7462391218c"
+    "revision": "986600473ec73293269e45030eb582d5"
   },
   {
     "url": "projects/channel/index.html",

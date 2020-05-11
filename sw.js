@@ -276,7 +276,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/convergence-bad-guys/page-data.json",
-    "revision": "1e0a80f57fa89c7bf846140d6734a3bf"
+    "revision": "bc2de175facb089e27b4a9e5b5bd0a54"
   },
   {
     "url": "page-data/projects/cosmo-casino/page-data.json",
@@ -384,7 +384,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/sun-and-rain/page-data.json",
-    "revision": "b3e629827f905fb2c25df3949c8d7e36"
+    "revision": "6465a65a2b30afb5637ded4c68ed2aad"
   },
   {
     "url": "page-data/projects/tank-top/page-data.json",
@@ -600,7 +600,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/convergence-bad-guys/index.html",
-    "revision": "02f65fcaaaac5966d64e43ee9fac423d"
+    "revision": "c6342864f339b14ae1942a1d7caaad05"
   },
   {
     "url": "projects/cosmo-casino/index.html",
@@ -708,7 +708,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/sun-and-rain/index.html",
-    "revision": "ea8abfe747b91d56ae7dee4fe1e99aec"
+    "revision": "02a087a25ce001f63d7b848136388ac3"
   },
   {
     "url": "projects/tank-top/index.html",

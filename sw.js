@@ -28,26 +28,26 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "87dd12d5c1df81bf1a9b16a5b6b4d88d"
+    "revision": "0e7407b27fe846ef079d8a2771b60e13"
   },
   {
     "url": "404/index.html",
-    "revision": "cee9273604aa0850bccf6346d26e8cda"
+    "revision": "0b2369ea75621e23c03ec7cba31dbe53"
   },
   {
     "url": "about/index.html",
-    "revision": "82cac5c943ddf772e286420944b9266b"
+    "revision": "d5ae728c7326dd44612b02453a9e64aa"
   },
   {
-    "url": "app-edad3c1f25a5f713d8f6.js"
+    "url": "app-38d895a92bba9ff40e2f.js"
   },
   {
-    "url": "app-edad3c1f25a5f713d8f6.js.map",
-    "revision": "d0000c7bbe3f9f4bb7dbc4d9a95f6cd7"
+    "url": "app-38d895a92bba9ff40e2f.js.map",
+    "revision": "cb1743cd70967cb970ad3ebe7d7f88d6"
   },
   {
     "url": "chunk-map.json",
-    "revision": "290591cfeb64e5ddbcb0a7ae31857531"
+    "revision": "a8d8a27152fca701c94a225509845b25"
   },
   {
     "url": "CNAME",
@@ -165,11 +165,11 @@ self.__precacheManifest = [
   },
   {
     "url": "files/resume-jerry_belich.pdf",
-    "revision": "c49c7d7c595348e3776c744ac8570370"
+    "revision": "d36e10572c52380ed8d40df13684398a"
   },
   {
     "url": "home/index.html",
-    "revision": "1abea43a68786c5d55cbdacd4f5f71be"
+    "revision": "61f8e52f587620dbab5de8cda1c7fe36"
   },
   {
     "url": "icons/icon-144x144.png",
@@ -208,7 +208,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "dfdac95bff9d766a626d1b94637782d8"
+    "revision": "b5c0984de00e1901516a0dba37108abc"
   },
   {
     "url": "manifest.webmanifest",
@@ -216,7 +216,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "1a88671a66efd611ada729d1bd61f32f"
+    "revision": "a0ce10293eb2a9cbd77e5c3907c2b6e3"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -232,7 +232,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "d13145d41a935f81f1d5782446475f12"
+    "revision": "2c64a3b0cf91a7b58e084d01b9734b71"
   },
   {
     "url": "page-data/home/page-data.json",
@@ -572,163 +572,163 @@ self.__precacheManifest = [
   },
   {
     "url": "pfp/index.html",
-    "revision": "025b482b9f0885a0819068b7e7307b32"
+    "revision": "24ce50597a3266229a6e32a5f559ca1a"
   },
   {
     "url": "projects/afterglow/index.html",
-    "revision": "89bf1bc4aafd29518432bdce67de29b6"
+    "revision": "a3d5a9f24b748e501d00b5a715bd8fa7"
   },
   {
     "url": "projects/alice-in-puzzleland/index.html",
-    "revision": "8929f760fcb790b61ae9f9ba35de36f7"
+    "revision": "d37139898f9c7029f52160a349e385ea"
   },
   {
     "url": "projects/alt-ctrl-award/index.html",
-    "revision": "3cdac4e7a5eed6e168540dc152bb168c"
+    "revision": "3d488704a2173a4788ec4d45cf7cc59b"
   },
   {
     "url": "projects/burning-ritual/index.html",
-    "revision": "060c4581115358541bfe21f7baedba89"
+    "revision": "57c6b205e12a023ef78c68ec7a3fd213"
   },
   {
     "url": "projects/channel/index.html",
-    "revision": "52bb5aad303580a6d9f82b68c7f44c1f"
+    "revision": "04e31cb5cc3a8b150f08f16bb2684590"
   },
   {
     "url": "projects/choosatron/index.html",
-    "revision": "5a92f539c09f9dc4fe25584821784b4e"
+    "revision": "825a1327c00b399cc2f2d0fc7be9fd7d"
   },
   {
     "url": "projects/convergence-bad-guys/index.html",
-    "revision": "bb223be1a1ad4c78f7b8a03e020c89e1"
+    "revision": "4bf6103766bc57ec03717291ea9b6130"
   },
   {
     "url": "projects/cosmo-casino/index.html",
-    "revision": "4ef727e8d4758aae885b17717e491a3a"
+    "revision": "acdf109dda9bb0fbe8d3decb1485b04a"
   },
   {
     "url": "projects/cute-em-up/index.html",
-    "revision": "e60c0cb4b19c6cfd9e9cd2f67dadd371"
+    "revision": "1204cd3708cc43e3ed07e2aa3b58de95"
   },
   {
     "url": "projects/cylindrus/index.html",
-    "revision": "e495e99c8a886c438a2278c49443157b"
+    "revision": "7814d22771d7571cc13c60c2bb22fdb6"
   },
   {
     "url": "projects/dark-side-of-balloon/index.html",
-    "revision": "781f17ccb86c1bd02419d9a25e0b3c61"
+    "revision": "b3546e35fe9b103dc522911917e58a47"
   },
   {
     "url": "projects/deepdive/index.html",
-    "revision": "1a0f6bbe18886d71597ddb91f8b04c66"
+    "revision": "35ba8c76b4a59ec6ec21e0ee977d7363"
   },
   {
     "url": "projects/dial/index.html",
-    "revision": "56d3512a7bff4e2dc95bf24953f54eea"
+    "revision": "51366f1bcf44f063755916db9ca9a05a"
   },
   {
     "url": "projects/dyscourse/index.html",
-    "revision": "838a1bef352ec13f0444e9f15a0d52e1"
+    "revision": "f6788f7ecba665dd361fd5de404c3608"
   },
   {
     "url": "projects/fahrenheit-451/index.html",
-    "revision": "265eb60804dd65159936ce4f3736e713"
+    "revision": "0982b69ed9b262d1e2b2feb3711c6197"
   },
   {
     "url": "projects/final-retirement-saga/index.html",
-    "revision": "cc8a1ccd98f6ba5536b2bf18603634dd"
+    "revision": "88ac54e9e4dd2b2d2882189202d3a3da"
   },
   {
     "url": "projects/gerry-game-won/index.html",
-    "revision": "0cb70b455b74096110be3dc79a2cc2bd"
+    "revision": "1d3c0fef520ebc08b47196bdd570e125"
   },
   {
     "url": "projects/ghost-dentist-vr/index.html",
-    "revision": "8212393faa4c316ce64d809f5d7441be"
+    "revision": "8524506d4c1b27ff7d3759bb0831abdf"
   },
   {
     "url": "projects/index.html",
-    "revision": "ab9342a113e99db97a3e5a9479478966"
+    "revision": "dd9219b2c06d902f09a7572fe809c00f"
   },
   {
     "url": "projects/jerrytron-com/index.html",
-    "revision": "3ab3e3bbe1805e6855dc27efc1c47955"
+    "revision": "9dec11b8bf64d09bc69ba1dae7d5e15f"
   },
   {
     "url": "projects/luftrausers-alt-ctrl/index.html",
-    "revision": "171a027379e116a65cbce2dd9fba06d5"
+    "revision": "d7411ba805599971d034d6bac927f623"
   },
   {
     "url": "projects/luftrausers-arcade/index.html",
-    "revision": "4d0a04c223152b31e40a3a50bb3f2dab"
+    "revision": "7b2a1ea6df5c757f21dcc9e94dc15a5b"
   },
   {
     "url": "projects/mathematical/index.html",
-    "revision": "232cfb982c464f4848a580081d7a0270"
+    "revision": "3db97e7caddf4ab8af552e11e4160863"
   },
   {
     "url": "projects/messy-crossings/index.html",
-    "revision": "c7add6348462a1943e38a609bcf0f877"
+    "revision": "586b7b8f5dbec4116b61d646242eaf09"
   },
   {
     "url": "projects/mini-mini-dragon-golf/index.html",
-    "revision": "b11d48311fdd7b95f2346a607237bd86"
+    "revision": "af624a42b8a15ce31d2e35e49b525ce9"
   },
   {
     "url": "projects/mysteryphone/index.html",
-    "revision": "5338eb766a290ffc3a821a57985c99c4"
+    "revision": "527228c4651cf2a7063f7a10eeb8c3a7"
   },
   {
     "url": "projects/nature-machn/index.html",
-    "revision": "c31d03ccbe73b775219ad99fd130898e"
+    "revision": "0035576081130f615739f52bffba966e"
   },
   {
     "url": "projects/please-stand-by/index.html",
-    "revision": "9ab25c92a931390c291bf88d3d85c300"
+    "revision": "14392e4f7b86ae9125e4d2787421ebdd"
   },
   {
     "url": "projects/polite-dinner-extreme/index.html",
-    "revision": "0a080312928b386bee8561efeb492c00"
+    "revision": "f6a05e51ce19deba5c547e99bd3ccd6e"
   },
   {
     "url": "projects/q-car/index.html",
-    "revision": "b1956cc88a1f849684d1776facbf190e"
+    "revision": "5c32d862ceef1d25ea1b7721875e3d32"
   },
   {
     "url": "projects/revolver/index.html",
-    "revision": "131a908f10b27676897e9c4b48ea50fb"
+    "revision": "ccddc6732aa3ad4e2835abad7658227e"
   },
   {
     "url": "projects/robo-mamas-cooking-kitchen/index.html",
-    "revision": "7a7da6e532b9c0bc6861e0cceb1bf9cf"
+    "revision": "e1e2d6e1cb22f1c8588055e31c03e880"
   },
   {
     "url": "projects/sloppy-shopping/index.html",
-    "revision": "3cdb001119cd060098ddf2221ffaa519"
+    "revision": "18b2a33f3951aa215ed977c68840eff7"
   },
   {
     "url": "projects/sun-and-rain/index.html",
-    "revision": "d9cbfe91817d45a0cd2088e29ed2e61e"
+    "revision": "a7d0efa74e3e1cdae2b5d01cffbeb11c"
   },
   {
     "url": "projects/tank-top/index.html",
-    "revision": "75606d1161663782c21a1f2db06b4b2d"
+    "revision": "4d1918c746674c30a9b968c0997d487d"
   },
   {
     "url": "projects/tastemmals/index.html",
-    "revision": "a6371942b61e548280a548a011cd732d"
+    "revision": "e323bc0a88932bc106c7686fb53ab08d"
   },
   {
     "url": "projects/tiny-tombstones/index.html",
-    "revision": "cf66cdee3df591efbd5f6b685b9fcbc0"
+    "revision": "0d60cbca7f6bb41cf78f88ac2e4efb39"
   },
   {
     "url": "projects/utopia-room/index.html",
-    "revision": "c86114e5dc3f08b7826d97dc5017a2de"
+    "revision": "f106b30549b40ab543de1c38988a2ed7"
   },
   {
     "url": "projects/zig-zegg/index.html",
-    "revision": "cec62479dd77f24bc692f0a636955a65"
+    "revision": "310ef6de931ef9cc17ddc6bedae64b74"
   },
   {
     "url": "robots.txt",
@@ -736,55 +736,55 @@ self.__precacheManifest = [
   },
   {
     "url": "sidebar/index.html",
-    "revision": "9b0997ca900df8651811d111029664fd"
+    "revision": "babe40041c7f34c14d253037adcb021a"
   },
   {
     "url": "skills/animation/index.html",
-    "revision": "0c4e64fb8d5b8a3d4c3f2e2940780153"
+    "revision": "94a0a028372642f06b1290987f1126e6"
   },
   {
     "url": "skills/flavor-text/index.html",
-    "revision": "246cf2d0298403bf136e6b4b6c5ed459"
+    "revision": "4ba2654fa3fd533886117e8af8f07357"
   },
   {
     "url": "skills/game-design/index.html",
-    "revision": "69e8acd7db76c044f238fbc903c62a51"
+    "revision": "1b200e331597b784b1fddc9f3104430c"
   },
   {
     "url": "skills/index.html",
-    "revision": "6b94dba6e052e27b9526e221cf43f3a2"
+    "revision": "e9856c879dd5031b34edeb562b92ef61"
   },
   {
     "url": "skills/narrative-storytelling/index.html",
-    "revision": "6e840154ac602c65df1e5e18d2e80921"
+    "revision": "f8302ddd980fcad5c61e649028a4840d"
   },
   {
     "url": "skills/physical-experience/index.html",
-    "revision": "2568557845b3757a02e84395aeddfa69"
+    "revision": "e814a26762c15f25c917cfe1f091b83d"
   },
   {
     "url": "skills/project-management/index.html",
-    "revision": "b33909af9b6cb8c1d6ba679604638783"
+    "revision": "bbfb82db72ba2557421ee7d3f4c6aa89"
   },
   {
     "url": "skills/simulation/index.html",
-    "revision": "5b1210631747f9efe7a2fbf34ecd36b4"
+    "revision": "920b5acd2015b1ee17865d6f5d342ffe"
   },
   {
     "url": "skills/software-dev/index.html",
-    "revision": "d1ef9a9f8709ea9446146defcc12fcdc"
+    "revision": "47ab8ecba57b4c7e9b0adb3b89a112fc"
   },
   {
     "url": "skills/testing/index.html",
-    "revision": "75fb926f183eaa8bb4f485fa509d82fb"
+    "revision": "b453933a06dafe66e2adf8dbe218a23d"
   },
   {
     "url": "skills/voice-over/index.html",
-    "revision": "931cd2868068b1a30fe98038b898b179"
+    "revision": "133452840534381b36f19a6b23f4b520"
   },
   {
     "url": "skills/web-dev/index.html",
-    "revision": "68dbb67b01b38007129d5b36c2926aaf"
+    "revision": "b25050ef57dcb5def27d7c36552b7efc"
   },
   {
     "url": "static/009ea3d4afc18ad913564f757560064e/15aed/q-car-inside.jpg"
@@ -5547,115 +5547,115 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/alt-ctrl/index.html",
-    "revision": "eba571bf3a9983273dc0048c5d494fa6"
+    "revision": "a437c45064cdd4f1ef0073309d9a0df6"
   },
   {
     "url": "tags/animation-fx/index.html",
-    "revision": "b0ae19d6279cd5b3329f794262856ad7"
+    "revision": "1daec00b3d00fe76977c941b34d4c154"
   },
   {
     "url": "tags/client-work/index.html",
-    "revision": "7d770a8845e5edae0c520b9e8c0f43e9"
+    "revision": "d74c34e8f51c144a3a07695ca9e1c6fe"
   },
   {
     "url": "tags/commissioned/index.html",
-    "revision": "58bb4a445a37fa71e5c4711a8809ddd2"
+    "revision": "277563aa227dc4933516ca639bbb1f82"
   },
   {
     "url": "tags/crowdfunding/index.html",
-    "revision": "6cf96681e73e0d92357004d2bbc85ad7"
+    "revision": "8f0530e7325c47f528c38335a1bce51a"
   },
   {
     "url": "tags/digital/index.html",
-    "revision": "b39b3494c97a70ce8311563c4e41ef27"
+    "revision": "785d2ff28cab5a0fc72ef6361543351e"
   },
   {
     "url": "tags/escape-room/index.html",
-    "revision": "23193ef995cc959a7bb81c6d074e7d16"
+    "revision": "c2da11f7ce9149caad8d26f8b01be3c4"
   },
   {
     "url": "tags/experience-design/index.html",
-    "revision": "435f66c6931288a82ff3c10762810c2d"
+    "revision": "378ea591dcaa06bdd6c8c4bd452aebc5"
   },
   {
     "url": "tags/game-design/index.html",
-    "revision": "f61135b78c3fac791c2bf714bc320397"
+    "revision": "5b5dbf944056484dc9af8be32f66471d"
   },
   {
     "url": "tags/game-jam/index.html",
-    "revision": "a274a142bec273b65f4ac0b56513ae0e"
+    "revision": "0b7f7e9b944457f557b1f3e3d6e6f3d3"
   },
   {
     "url": "tags/gatsby/index.html",
-    "revision": "875c3699f992f56958f5099e9e234466"
+    "revision": "de95fbcf0d00a1dec5882b745220b1e4"
   },
   {
     "url": "tags/index.html",
-    "revision": "70b5f5487e5f4e9508ccc8c121fb3406"
+    "revision": "767c9c7113bd17ee17eb96ee9e452d52"
   },
   {
     "url": "tags/installation/index.html",
-    "revision": "e2110e8eda3844fa584c01a82a4d6bbf"
+    "revision": "b780661d949e7ef5dceb9c74fec81017"
   },
   {
     "url": "tags/interactive-fiction/index.html",
-    "revision": "713f0f350f610c827adb52c84cbfa79b"
+    "revision": "59bc6d28b4de97b19ad6e214f0fe7b6f"
   },
   {
     "url": "tags/live-theatre/index.html",
-    "revision": "747366aa23ac8bc7617bcaef8632b0e9"
+    "revision": "32a520f30e2ccbba28a8d1a6d34f3f3d"
   },
   {
     "url": "tags/location-based-game/index.html",
-    "revision": "5fcf9a85a36054489ccb95e152e34911"
+    "revision": "ce04bab55ba08a794968f8b7d697bfed"
   },
   {
     "url": "tags/location-based/index.html",
-    "revision": "0862c16abda2ff4f70212941dbe5653e"
+    "revision": "519a400ef54c79411b6be3ba76d61d66"
   },
   {
     "url": "tags/narrative/index.html",
-    "revision": "c2797eadfe511b69f3da33eb32622a81"
+    "revision": "c6cd74a975ff96f5d027f5838a17221d"
   },
   {
     "url": "tags/physical-tech/index.html",
-    "revision": "9030dee921b401cd3519d04cdbe48cbd"
+    "revision": "6b4f7d7d09851b98309da9f75370ca44"
   },
   {
     "url": "tags/poetry/index.html",
-    "revision": "373c45f0b9bf79eea045264e77495f1b"
+    "revision": "190fda10f2bccc44d5541d6436e63be5"
   },
   {
     "url": "tags/prototyping-for-play/index.html",
-    "revision": "3decc34206a19b5feb319b3f6c5edc4e"
+    "revision": "8e4422012ca451998127e17ea89a211a"
   },
   {
     "url": "tags/static-generation/index.html",
-    "revision": "4bb4753771c701fb3986ed2eb59b2a12"
+    "revision": "54dc744b380e46c473fb2b55ecf8e50a"
   },
   {
     "url": "tags/tabletop/index.html",
-    "revision": "b2d352a8a531d79d3287271c699a425b"
+    "revision": "24b8f2583705c2736de081da962ed415"
   },
   {
     "url": "tags/test/index.html",
-    "revision": "a65c7f1b9eeadb1d6c541fe81042c2b3"
+    "revision": "9e37f39c014a4e15bab00f476db17d07"
   },
   {
     "url": "tags/twitter/index.html",
-    "revision": "8eeca0bf7ce483b04ca7df509e9df5c0"
+    "revision": "2b163cbce03b115bc6e12dd5e0c0115e"
   },
   {
     "url": "tags/voice-over/index.html",
-    "revision": "f4111fb9f63accc405b59c211b60b166"
+    "revision": "707198e40f24e837bd73eaf7356fdbe5"
   },
   {
     "url": "tags/vr/index.html",
-    "revision": "406f0ccf9a74d2a4b8329e35b7e27516"
+    "revision": "91b4c21fd3cb81fc084e46fd2fdea0c2"
   },
   {
     "url": "tags/writing/index.html",
-    "revision": "f96b91838b0dbb8941489d9aa36e405a"
+    "revision": "6095cb2a780f8c9163943a5962567c89"
   },
   {
     "url": "webpack-runtime-924ebb88720566fb7c46.js"
@@ -5666,7 +5666,7 @@ self.__precacheManifest = [
   },
   {
     "url": "webpack.stats.json",
-    "revision": "85ee5039742ac9d873edb18c857afc8e"
+    "revision": "dc5f87c4e7f22762b8c6ada5833e555e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -5759,7 +5759,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-edad3c1f25a5f713d8f6.js`))) {
+  if (!resources || !(await caches.match(`/app-38d895a92bba9ff40e2f.js`))) {
     return await fetch(event.request)
   }
 

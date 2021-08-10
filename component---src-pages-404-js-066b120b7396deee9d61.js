@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_portfolio=self.webpackChunkgatsby_portfolio||[]).push([[883],{9616:function(t,u,s){"use strict";s.r(u);s(7294);var e=s(3314);u.default=function(){return(0,e.tZ)("div",null,(0,e.tZ)("h1",null,"NOT FOUND"),(0,e.tZ)("p",null,"You just hit a route that doesn't exist... the sadness."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-066b120b7396deee9d61.js.map

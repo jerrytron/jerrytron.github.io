@@ -435,7 +435,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/dark-side-of-balloon/page-data.json",
-    "revision": "53be0a6800bb28ed61fe7eaa58c0e6f6"
+    "revision": "e18768079172b354a628b0b37ed3bbb9"
   },
   {
     "url": "page-data/projects/deepdive/page-data.json",
@@ -503,7 +503,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/page-data.json",
-    "revision": "0e73f39742dcf1fb21951cae498f23fd"
+    "revision": "5a411e6057d5884ffbdcaed153595dd4"
   },
   {
     "url": "page-data/projects/please-stand-by/page-data.json",
@@ -575,7 +575,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/skills/narrative-storytelling/page-data.json",
-    "revision": "0fb5b8bcce59a0bd9280a7a8ec832253"
+    "revision": "0bb4605afc20277027791bfa0d0ed89d"
   },
   {
     "url": "page-data/skills/page-data.json",
@@ -619,7 +619,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/alt-ctrl/page-data.json",
-    "revision": "1c0fa8206a08e91a2b7949deffb21ccf"
+    "revision": "e7ab7fdc8fe226e1a522b7a9df2d8519"
   },
   {
     "url": "page-data/tags/animation-fx/page-data.json",
@@ -659,7 +659,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/game-jam/page-data.json",
-    "revision": "45c7f0ebc682b7c09b1694a703e76130"
+    "revision": "75f87f2af56fdbe2abf3522dea42c025"
   },
   {
     "url": "page-data/tags/installation/page-data.json",
@@ -719,7 +719,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/writing/page-data.json",
-    "revision": "0f808083f0b822807a6fee57cb8f18d7"
+    "revision": "eb0202669eb5e0473206926ac36f1d18"
   },
   {
     "url": "page-data/writing-samples/page-data.json",
@@ -782,7 +782,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/dark-side-of-balloon/index.html",
-    "revision": "e244c933537a3d835c0dea19bb5eda12"
+    "revision": "8a63523669ddde1c7213f03721b97782"
   },
   {
     "url": "projects/deepdive/index.html",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/index.html",
-    "revision": "e8dbef274741e71ea108b89ba64400e5"
+    "revision": "03acac9f0ef3834b74accdbefbd24b12"
   },
   {
     "url": "projects/jerrytron-com/index.html",
@@ -942,7 +942,7 @@ self.__precacheManifest = [
   },
   {
     "url": "skills/narrative-storytelling/index.html",
-    "revision": "90510c9a3237eaeef9013daede8303f6"
+    "revision": "bec936dcce1e4239dc37599193a60502"
   },
   {
     "url": "skills/physical-experience/index.html",
@@ -5984,7 +5984,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/alt-ctrl/index.html",
-    "revision": "823a55d3dac31ecc35f3020f144eff0f"
+    "revision": "c7206e115c2efa33676f7a41a0db264b"
   },
   {
     "url": "tags/animation-fx/index.html",
@@ -6024,7 +6024,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/game-jam/index.html",
-    "revision": "24df74eeb2bd8e27ea1ab756322f0ae8"
+    "revision": "0f457d22eb148a366a772598e068e04c"
   },
   {
     "url": "tags/index.html",
@@ -6084,7 +6084,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/writing/index.html",
-    "revision": "87ef5f932a7f085da724e6978506a5d1"
+    "revision": "786b9f6afc9bf5783e40b95f8cc51d25"
   },
   {
     "url": "webpack-runtime-bff347c8b291e2d579d9.js"

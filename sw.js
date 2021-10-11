@@ -294,6 +294,14 @@ self.__precacheManifest = [
     "revision": "0da2aa9e7d535c7237d19e57791ebf35"
   },
   {
+    "url": "if/escape-from-pompeii.html",
+    "revision": "0b3c5c6e4ad03a021230a4128f962918"
+  },
+  {
+    "url": "if/everythings-coming-up-space-pirates.html",
+    "revision": "137e48be753bd5dc3d89ecaebb3d5d89"
+  },
+  {
     "url": "if/eyes-that-watch.html",
     "revision": "18cb2bd911959dbbfb3fcd1c1ab81ca9"
   },
@@ -306,16 +314,44 @@ self.__precacheManifest = [
     "revision": "106bc3465028c7ade90ed90669d16342"
   },
   {
+    "url": "if/keekees-big-adventure.html",
+    "revision": "4bfdea8c72484a2b3e5f18398ef2790f"
+  },
+  {
+    "url": "if/librarians-apprentice.html",
+    "revision": "d88e49d4be847550f5c204c254953e45"
+  },
+  {
     "url": "if/minnedemo-or-bust.html",
     "revision": "af6edd6355d453d65da10b751d2f7e94"
+  },
+  {
+    "url": "if/mustache-rangers.html",
+    "revision": "c730d29a02e788182d7cbbb62a7c25ef"
+  },
+  {
+    "url": "if/my-super-hero.html",
+    "revision": "8a8b3e547a168e0dbcc8fc51994099c5"
   },
   {
     "url": "if/no-brakes-valet.html",
     "revision": "f7542c15aada99f542ca08e28bd7a750"
   },
   {
+    "url": "if/on-a-dark-and-stormy-night.html",
+    "revision": "1c135bf468f55f2a851c20bcebe86417"
+  },
+  {
+    "url": "if/operation-brain-drain.html",
+    "revision": "f303ddf40cc895a1bc87a8d40ef07f74"
+  },
+  {
     "url": "if/revolver.html",
     "revision": "08d437f01c75d01e13c075b85459ffcc"
+  },
+  {
+    "url": "if/slugfest.html",
+    "revision": "fa87a52c4f954c7ed798dc255868bb07"
   },
   {
     "url": "if/spy-who-killed-me.html",
@@ -338,8 +374,20 @@ self.__precacheManifest = [
     "revision": "43ba14e4f1e005a12a73a8a40dea2786"
   },
   {
+    "url": "if/very-scary-house.html",
+    "revision": "6da774d4392b0e9865f096e46d699d14"
+  },
+  {
     "url": "if/wormsign.html",
     "revision": "9f5f34ec1616b586f6c1d4067c3a0d84"
+  },
+  {
+    "url": "if/wrestlefest.html",
+    "revision": "daba464be2486e1ffc4a0d4171b91e22"
+  },
+  {
+    "url": "if/zombie-always-wins.html",
+    "revision": "3296ebf89f42b93e83d99b22bb44ed7f"
   },
   {
     "url": "index.html",
@@ -415,7 +463,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/choosatron/page-data.json",
-    "revision": "336b21ad63c79084b3a43372290a74bd"
+    "revision": "774321cce464657628e717c4f67910bf"
   },
   {
     "url": "page-data/projects/convergence-bad-guys/page-data.json",
@@ -503,7 +551,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/page-data.json",
-    "revision": "5a411e6057d5884ffbdcaed153595dd4"
+    "revision": "5ad93ab3abf577374e3d4b85af265561"
   },
   {
     "url": "page-data/projects/please-stand-by/page-data.json",
@@ -551,7 +599,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/writing-samples/page-data.json",
-    "revision": "18e3698c6f4ee39e331039bf6ffc40ad"
+    "revision": "35c49e0d814b26fd2a6ad850fa2b1142"
   },
   {
     "url": "page-data/projects/zig-zegg/page-data.json",
@@ -575,7 +623,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/skills/narrative-storytelling/page-data.json",
-    "revision": "0bb4605afc20277027791bfa0d0ed89d"
+    "revision": "0fb5b8bcce59a0bd9280a7a8ec832253"
   },
   {
     "url": "page-data/skills/page-data.json",
@@ -619,7 +667,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/alt-ctrl/page-data.json",
-    "revision": "e7ab7fdc8fe226e1a522b7a9df2d8519"
+    "revision": "1c0fa8206a08e91a2b7949deffb21ccf"
   },
   {
     "url": "page-data/tags/animation-fx/page-data.json",
@@ -659,7 +707,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/game-jam/page-data.json",
-    "revision": "75f87f2af56fdbe2abf3522dea42c025"
+    "revision": "e4a3ab553f0cf68540005f216de02634"
   },
   {
     "url": "page-data/tags/installation/page-data.json",
@@ -719,7 +767,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/writing/page-data.json",
-    "revision": "eb0202669eb5e0473206926ac36f1d18"
+    "revision": "0f808083f0b822807a6fee57cb8f18d7"
   },
   {
     "url": "page-data/writing-samples/page-data.json",
@@ -762,7 +810,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/choosatron/index.html",
-    "revision": "d5a747e9b7a73a38fc82dc8169b43979"
+    "revision": "c9a229f065f15b4759447de40bd8c20b"
   },
   {
     "url": "projects/convergence-bad-guys/index.html",
@@ -814,7 +862,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/index.html",
-    "revision": "03acac9f0ef3834b74accdbefbd24b12"
+    "revision": "55c48437990cc3cee9d42b23e4f11cf9"
   },
   {
     "url": "projects/jerrytron-com/index.html",
@@ -910,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/writing-samples/index.html",
-    "revision": "51e7a27fd3308ece533f831656c4ad68"
+    "revision": "0715d8f6e1a6e427a5ec4d41328c70b6"
   },
   {
     "url": "projects/zig-zegg/index.html",
@@ -942,7 +990,7 @@ self.__precacheManifest = [
   },
   {
     "url": "skills/narrative-storytelling/index.html",
-    "revision": "bec936dcce1e4239dc37599193a60502"
+    "revision": "90510c9a3237eaeef9013daede8303f6"
   },
   {
     "url": "skills/physical-experience/index.html",
@@ -5984,7 +6032,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/alt-ctrl/index.html",
-    "revision": "c7206e115c2efa33676f7a41a0db264b"
+    "revision": "823a55d3dac31ecc35f3020f144eff0f"
   },
   {
     "url": "tags/animation-fx/index.html",
@@ -6024,7 +6072,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/game-jam/index.html",
-    "revision": "0f457d22eb148a366a772598e068e04c"
+    "revision": "e9899740cb05ba4d1057ec5c465818a1"
   },
   {
     "url": "tags/index.html",
@@ -6084,7 +6132,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/writing/index.html",
-    "revision": "786b9f6afc9bf5783e40b95f8cc51d25"
+    "revision": "87ef5f932a7f085da724e6978506a5d1"
   },
   {
     "url": "webpack-runtime-bff347c8b291e2d579d9.js"

@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-pfp-md","path":"/pfp/","result":{"pageContext":{"frontmatter":{"title":"Prototyping for Play","type":"toc","date":"2015-08-10T00:00:00.000Z"}}},"staticQueryHashes":["342711794"]}
+{
+    "componentChunkName": "component---src-pages-pfp-md",
+    "path": "/pfp/",
+    "result": {"pageContext":{"frontmatter":{"title":"Prototyping for Play","type":"toc","date":"2015-08-10T00:00:00.000Z"}}},
+    "staticQueryHashes": ["342711794"]}

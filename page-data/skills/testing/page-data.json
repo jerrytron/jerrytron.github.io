@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-templates-skill-js","path":"/skills/testing/","result":{"data":{"allMdx":{"totalCount":0,"edges":[]}},"pageContext":{"skill":"testing"}},"staticQueryHashes":["342711794"]}
+{
+    "componentChunkName": "component---src-templates-skill-js",
+    "path": "/skills/testing/",
+    "result": {"data":{"allMdx":{"totalCount":0,"edges":[]}},"pageContext":{"skill":"testing"}},
+    "staticQueryHashes": ["342711794"]}

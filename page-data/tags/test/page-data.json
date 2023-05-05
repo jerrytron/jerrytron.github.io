@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-templates-tag-js","path":"/tags/test/","result":{"data":{"allMdx":{"totalCount":0,"edges":[]}},"pageContext":{"tag":"test"}},"staticQueryHashes":["342711794"]}
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/tags/test/",
+    "result": {"data":{"allMdx":{"totalCount":0,"edges":[]}},"pageContext":{"tag":"test"}},
+    "staticQueryHashes": ["342711794"]}

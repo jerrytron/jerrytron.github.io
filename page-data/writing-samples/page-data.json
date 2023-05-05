@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-writing-samples-md","path":"/writing-samples/","result":{"pageContext":{"frontmatter":{"title":"Writing Samples","type":"page","published":true,"date":"2020-06-09T00:00:00.000Z","thumbnail":"writing-sample-test.jpg","images":["writing-sample-test.jpg"]}}},"staticQueryHashes":["342711794"]}
+{
+    "componentChunkName": "component---src-pages-writing-samples-md",
+    "path": "/writing-samples/",
+    "result": {"pageContext":{"frontmatter":{"title":"Writing Samples","type":"page","published":true,"date":"2020-06-09T00:00:00.000Z","thumbnail":"writing-sample-test.jpg","images":["writing-sample-test.jpg"]}}},
+    "staticQueryHashes": ["342711794"]}

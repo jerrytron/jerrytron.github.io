@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-home-md","path":"/home/","result":{"pageContext":{"frontmatter":{"title":"Homepage","type":"home","date":"2020-04-18T00:00:00.000Z","thumbnail":"home-jerry-belich.jpg","bodyImage":"../images/home/home-jerry-belich.jpg"}}},"staticQueryHashes":["342711794"]}
+{
+    "componentChunkName": "component---src-pages-home-md",
+    "path": "/home/",
+    "result": {"pageContext":{"frontmatter":{"title":"Homepage","type":"home","date":"2020-04-18T00:00:00.000Z","thumbnail":"home-jerry-belich.jpg","bodyImage":"../images/home/home-jerry-belich.jpg"}}},
+    "staticQueryHashes": ["342711794"]}

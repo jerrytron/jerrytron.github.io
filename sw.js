@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/page-data.json",
-    "revision": "3c4e08b374a377f76fb8b392e193648b"
+    "revision": "e975ba2479945ca29e31c80bf1a1dbf9"
   },
   {
     "url": "page-data/projects/please-stand-by/page-data.json",
@@ -577,12 +577,12 @@ self.__precacheManifest = [
     "revision": "76e2d19801610c30530fb6462b63faa8"
   },
   {
-    "url": "page-data/projects/recdog/page-data.json",
-    "revision": "924df94fb9eb8adc7016beba11aef325"
+    "url": "page-data/projects/rec-dog/page-data.json",
+    "revision": "d4f288ffaa03941267de760ad64809e4"
   },
   {
     "url": "page-data/projects/reel-steal/page-data.json",
-    "revision": "7d6ae0139074fe97edc1dbe8a2cc72e2"
+    "revision": "b2402e59e655160beac71c90af0f9793"
   },
   {
     "url": "page-data/projects/revolver/page-data.json",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/alt-ctrl/page-data.json",
-    "revision": "1c53b25df8a0384a9e7358a0997bc456"
+    "revision": "0d08547b358c6fcef6a1bb905ce9abaa"
   },
   {
     "url": "page-data/tags/animation-fx/page-data.json",
@@ -698,7 +698,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/client-work/page-data.json",
-    "revision": "22f70aef542b61ca5c277d1fb5f074c5"
+    "revision": "76aae05b667769510b21b3d12d466d02"
   },
   {
     "url": "page-data/tags/commissioned/page-data.json",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/digital/page-data.json",
-    "revision": "14f0838c3ad4db6df6480cced7bc9e2c"
+    "revision": "0e1e793e81f6dcc72f7fc3329c05e02a"
   },
   {
     "url": "page-data/tags/escape-room/page-data.json",
@@ -722,7 +722,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/game-design/page-data.json",
-    "revision": "d224b33263b3748acbdc91679deb6b3d"
+    "revision": "282ea53b729d6d7f77e0fa6c1e09a0c9"
   },
   {
     "url": "page-data/tags/game-jam/page-data.json",
@@ -746,7 +746,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/page-data.json",
-    "revision": "f9e521b903d58c915f3a4da1a3fa1b24"
+    "revision": "e464fa7784892c7ea67685b7bc2efc40"
   },
   {
     "url": "page-data/tags/poetry/page-data.json",
@@ -889,7 +889,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/index.html",
-    "revision": "64f195811c2434611cf5e3ac4840df66"
+    "revision": "2d3c07c734491e13be7f03d679d330aa"
   },
   {
     "url": "projects/jerrytron-com/index.html",
@@ -952,12 +952,12 @@ self.__precacheManifest = [
     "revision": "f66d8b1b7c61b32e3e3fd76372d6cdbc"
   },
   {
-    "url": "projects/recdog/index.html",
-    "revision": "87ea97ce6bae4a9ab40f12b8a3f8ddd7"
+    "url": "projects/rec-dog/index.html",
+    "revision": "c9a4176a238b525a04a5c836aa294999"
   },
   {
     "url": "projects/reel-steal/index.html",
-    "revision": "3221e4364b820d378e6a06e714fb8a05"
+    "revision": "993d7130c0e6bb598e2c8cd62fb86f15"
   },
   {
     "url": "projects/revolver/index.html",
@@ -1413,15 +1413,6 @@ self.__precacheManifest = [
     "url": "static/0e8458247dc3bc14c136eaea76d0b1a3/aabdf/cute-em-up-screenshot-02.jpg"
   },
   {
-    "url": "static/0f2ad0a96897d595279a65a13ab4afc0/497c6/recdog-gameplay-02.png"
-  },
-  {
-    "url": "static/0f2ad0a96897d595279a65a13ab4afc0/630fb/recdog-gameplay-02.png"
-  },
-  {
-    "url": "static/0f2ad0a96897d595279a65a13ab4afc0/6d161/recdog-gameplay-02.png"
-  },
-  {
     "url": "static/10bcb19fd4891da97d144e1150810d69/0e329/choosatron-paper.jpg"
   },
   {
@@ -1786,33 +1777,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/1feb4e0266eafc514f99c9785d334771/aabdf/ghost-dentist-vr-jam-screenshot-01.jpg"
-  },
-  {
-    "url": "static/206a39a356039a72cce2fce5a3338828/46bc1/recdog-title.png"
-  },
-  {
-    "url": "static/206a39a356039a72cce2fce5a3338828/690a3/recdog-title.png"
-  },
-  {
-    "url": "static/206a39a356039a72cce2fce5a3338828/78948/recdog-title.png"
-  },
-  {
-    "url": "static/206a39a356039a72cce2fce5a3338828/7e7e9/recdog-title.png"
-  },
-  {
-    "url": "static/206a39a356039a72cce2fce5a3338828/a5370/recdog-title.png"
-  },
-  {
-    "url": "static/206a39a356039a72cce2fce5a3338828/e7519/recdog-title.png"
-  },
-  {
-    "url": "static/214b33013527fa394fb5b62bcdb9e43e/497c6/recdog-gameplay-01.png"
-  },
-  {
-    "url": "static/214b33013527fa394fb5b62bcdb9e43e/630fb/recdog-gameplay-01.png"
-  },
-  {
-    "url": "static/214b33013527fa394fb5b62bcdb9e43e/6d161/recdog-gameplay-01.png"
   },
   {
     "url": "static/2173a229457dd2dad0b47e4531ff8b84/0e329/final-retirement-saga-team.jpg"
@@ -3522,15 +3486,6 @@ self.__precacheManifest = [
     "url": "static/853d908266c88c2ce5627695de0a9be2/e7519/reel-steal-title.png"
   },
   {
-    "url": "static/86f52741667634217ca08d94371c323c/497c6/recdog-gameplay-04.png"
-  },
-  {
-    "url": "static/86f52741667634217ca08d94371c323c/630fb/recdog-gameplay-04.png"
-  },
-  {
-    "url": "static/86f52741667634217ca08d94371c323c/6d161/recdog-gameplay-04.png"
-  },
-  {
     "url": "static/877365a4c1057c157a49489ac7ebbbeb/0e329/choosatron-wood-02.jpg"
   },
   {
@@ -4381,15 +4336,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/9f550f9b8cd33e6fa95a8ab7930666dd/aabdf/polite-dinner-extreme-start.jpg"
-  },
-  {
-    "url": "static/9fb2524ac3045f413c038256f5ca08d2/497c6/recdog-gameplay-05.png"
-  },
-  {
-    "url": "static/9fb2524ac3045f413c038256f5ca08d2/630fb/recdog-gameplay-05.png"
-  },
-  {
-    "url": "static/9fb2524ac3045f413c038256f5ca08d2/6d161/recdog-gameplay-05.png"
   },
   {
     "url": "static/a00bbdf803e72487cbdec8684d6e2ed8/0e329/jerrytron-com-projects.jpg"
@@ -5478,6 +5424,42 @@ self.__precacheManifest = [
     "url": "static/cdc782f1a281e78b10efb9612fc8cf3b/aabdf/channel-motor-belts.jpg"
   },
   {
+    "url": "static/ce47e5b308611e469b8cb398d0a307a1/2a4de/missing-image.png"
+  },
+  {
+    "url": "static/ce47e5b308611e469b8cb398d0a307a1/62b1f/missing-image.png"
+  },
+  {
+    "url": "static/ce47e5b308611e469b8cb398d0a307a1/630fb/missing-image.png"
+  },
+  {
+    "url": "static/ce47e5b308611e469b8cb398d0a307a1/690a3/missing-image.png"
+  },
+  {
+    "url": "static/ce47e5b308611e469b8cb398d0a307a1/6d161/missing-image.png"
+  },
+  {
+    "url": "static/ce47e5b308611e469b8cb398d0a307a1/6ec5a/missing-image.png"
+  },
+  {
+    "url": "static/ce47e5b308611e469b8cb398d0a307a1/78948/missing-image.png"
+  },
+  {
+    "url": "static/ce47e5b308611e469b8cb398d0a307a1/7e7e9/missing-image.png"
+  },
+  {
+    "url": "static/ce47e5b308611e469b8cb398d0a307a1/e2e7f/missing-image.png"
+  },
+  {
+    "url": "static/ce47e5b308611e469b8cb398d0a307a1/e7519/missing-image.png"
+  },
+  {
+    "url": "static/ce47e5b308611e469b8cb398d0a307a1/ee604/missing-image.png"
+  },
+  {
+    "url": "static/ce47e5b308611e469b8cb398d0a307a1/f1dd6/missing-image.png"
+  },
+  {
     "url": "static/d082435adccea5d793f492cc5065ed7e/0e329/alt-ctrl-award-board.jpg"
   },
   {
@@ -5584,15 +5566,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/d6b9c4ea1f876adc0615b5e87a0b9464/aabdf/ghost-dentist-vr-screenshot-02.jpg"
-  },
-  {
-    "url": "static/d8ab7602a5a0486691e1e69b310d2d4d/497c6/recdog-gameplay-03.png"
-  },
-  {
-    "url": "static/d8ab7602a5a0486691e1e69b310d2d4d/630fb/recdog-gameplay-03.png"
-  },
-  {
-    "url": "static/d8ab7602a5a0486691e1e69b310d2d4d/6d161/recdog-gameplay-03.png"
   },
   {
     "url": "static/d8b634debc5b6195e192931a15f87bc7/47498/cylindrus-play-bit-bash.jpg"
@@ -6274,7 +6247,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/alt-ctrl/index.html",
-    "revision": "0b046236b24cd59661f369ae1b1893bf"
+    "revision": "87a3e37be53c536b7b377f90a843b489"
   },
   {
     "url": "tags/animation-fx/index.html",
@@ -6286,7 +6259,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/client-work/index.html",
-    "revision": "226466bc97e1bbf602248b64a478c139"
+    "revision": "8c5a8f60e5d9f6f39252e98b275dcb36"
   },
   {
     "url": "tags/commissioned/index.html",
@@ -6298,7 +6271,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/digital/index.html",
-    "revision": "778b49631d52b2fa58c5cc16ceda5277"
+    "revision": "e15b457307e181c69ed15712ab936e6b"
   },
   {
     "url": "tags/escape-room/index.html",
@@ -6310,7 +6283,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/game-design/index.html",
-    "revision": "9f22c7b217608cfded5ba2323f81c60b"
+    "revision": "3c438e17f9d8cefc02e09712ce7101ae"
   },
   {
     "url": "tags/game-jam/index.html",
@@ -6318,7 +6291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/index.html",
-    "revision": "89a0fdf762b0411fc583583dabedceda"
+    "revision": "1eb7e3da6a41459310e112e8b7105e95"
   },
   {
     "url": "tags/installation/index.html",

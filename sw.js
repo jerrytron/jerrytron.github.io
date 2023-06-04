@@ -522,7 +522,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/high-on-life/page-data.json",
-    "revision": "c086d6c084d44d48dc4c02a555a77a41"
+    "revision": "e4c47a9118383100ee067f356451de14"
   },
   {
     "url": "page-data/projects/jerrytron-com/page-data.json",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/page-data.json",
-    "revision": "fc3b79039031e54fad4e4be830cfd7b3"
+    "revision": "05c470f2e24c865b653ac104c53f047a"
   },
   {
     "url": "page-data/projects/please-stand-by/page-data.json",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/alt-ctrl/page-data.json",
-    "revision": "66d9ea3030ec8bcc2265bf4f1481a838"
+    "revision": "fd3a15d994899dbb8dbc5cca68a6632d"
   },
   {
     "url": "page-data/tags/animation-fx/page-data.json",
@@ -726,7 +726,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/game-jam/page-data.json",
-    "revision": "8cbb66d1ccbee1f490d7077df10161cf"
+    "revision": "50155cd4333d023fce95a073909691af"
   },
   {
     "url": "page-data/tags/installation/page-data.json",
@@ -885,11 +885,11 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/high-on-life/index.html",
-    "revision": "d3d6c806626c1aca4cac96c4d01f9caa"
+    "revision": "445197bdf6c1aa8d6dad42465708e192"
   },
   {
     "url": "projects/index.html",
-    "revision": "00225715fff3efa8fe388028ff62bb2d"
+    "revision": "821b6775916e59b99018c19fd45fd639"
   },
   {
     "url": "projects/jerrytron-com/index.html",
@@ -2638,21 +2638,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/54f2d83da7b4370da4c28730dfdde369/fc081/alt-ctrl-award-mockup-02.jpg"
-  },
-  {
-    "url": "static/5557759b8c6581d009c31393c4f2f28a/2a4de/high-on-life-gameplay-04.png"
-  },
-  {
-    "url": "static/5557759b8c6581d009c31393c4f2f28a/630fb/high-on-life-gameplay-04.png"
-  },
-  {
-    "url": "static/5557759b8c6581d009c31393c4f2f28a/6d161/high-on-life-gameplay-04.png"
-  },
-  {
-    "url": "static/5557759b8c6581d009c31393c4f2f28a/db955/high-on-life-gameplay-04.png"
-  },
-  {
-    "url": "static/5557759b8c6581d009c31393c4f2f28a/f3583/high-on-life-gameplay-04.png"
   },
   {
     "url": "static/56bbeb0292fed43c1a53ddfbe1be0a97/0e329/cute-em-up-player.jpg"
@@ -5442,6 +5427,21 @@ self.__precacheManifest = [
     "url": "static/cc11e9185a313fcc1a8a100bae6fd901/fc3be/alice-in-puzzleland-room-topdown.jpg"
   },
   {
+    "url": "static/cc38d8e94080f0d6a3677ed12d994b69/2a4de/high-on-life-gameplay-04.png"
+  },
+  {
+    "url": "static/cc38d8e94080f0d6a3677ed12d994b69/630fb/high-on-life-gameplay-04.png"
+  },
+  {
+    "url": "static/cc38d8e94080f0d6a3677ed12d994b69/6d161/high-on-life-gameplay-04.png"
+  },
+  {
+    "url": "static/cc38d8e94080f0d6a3677ed12d994b69/db955/high-on-life-gameplay-04.png"
+  },
+  {
+    "url": "static/cc38d8e94080f0d6a3677ed12d994b69/f3583/high-on-life-gameplay-04.png"
+  },
+  {
     "url": "static/cdc782f1a281e78b10efb9612fc8cf3b/0e329/channel-motor-belts.jpg"
   },
   {
@@ -6274,7 +6274,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/alt-ctrl/index.html",
-    "revision": "5366b53d5d5ded64a7324b4008d30bc0"
+    "revision": "758fa7e9a7d1e60f0ee1e836183dca2d"
   },
   {
     "url": "tags/animation-fx/index.html",
@@ -6314,7 +6314,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/game-jam/index.html",
-    "revision": "2998abba782227461b95885898bd7ae9"
+    "revision": "141c16f899d97ab3b9fc40baf99911f3"
   },
   {
     "url": "tags/index.html",

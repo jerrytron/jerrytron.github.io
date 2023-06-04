@@ -522,7 +522,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/high-on-life/page-data.json",
-    "revision": "7e69da2e8a4601bff662afe2ca4eb26d"
+    "revision": "c086d6c084d44d48dc4c02a555a77a41"
   },
   {
     "url": "page-data/projects/jerrytron-com/page-data.json",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/page-data.json",
-    "revision": "e975ba2479945ca29e31c80bf1a1dbf9"
+    "revision": "fc3b79039031e54fad4e4be830cfd7b3"
   },
   {
     "url": "page-data/projects/please-stand-by/page-data.json",
@@ -577,12 +577,12 @@ self.__precacheManifest = [
     "revision": "76e2d19801610c30530fb6462b63faa8"
   },
   {
-    "url": "page-data/projects/rec-dog/page-data.json",
-    "revision": "d4f288ffaa03941267de760ad64809e4"
+    "url": "page-data/projects/recommendation-dog/page-data.json",
+    "revision": "03088f3d820f301a585dc6ebcd3632c7"
   },
   {
     "url": "page-data/projects/reel-steal/page-data.json",
-    "revision": "b2402e59e655160beac71c90af0f9793"
+    "revision": "97d6159f7e5bf4d637644b97db230632"
   },
   {
     "url": "page-data/projects/revolver/page-data.json",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/alt-ctrl/page-data.json",
-    "revision": "0d08547b358c6fcef6a1bb905ce9abaa"
+    "revision": "66d9ea3030ec8bcc2265bf4f1481a838"
   },
   {
     "url": "page-data/tags/animation-fx/page-data.json",
@@ -698,7 +698,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/client-work/page-data.json",
-    "revision": "76aae05b667769510b21b3d12d466d02"
+    "revision": "ae008b9e74775bc8c81a8831a39fa3d1"
   },
   {
     "url": "page-data/tags/commissioned/page-data.json",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/digital/page-data.json",
-    "revision": "0e1e793e81f6dcc72f7fc3329c05e02a"
+    "revision": "1ed6daa5fc9258745ea2a66c8f21236e"
   },
   {
     "url": "page-data/tags/escape-room/page-data.json",
@@ -722,7 +722,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/game-design/page-data.json",
-    "revision": "282ea53b729d6d7f77e0fa6c1e09a0c9"
+    "revision": "240b6e5142922ff7da5671351183845d"
   },
   {
     "url": "page-data/tags/game-jam/page-data.json",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/narrative/page-data.json",
-    "revision": "72280b19b9864b0253a175d85c417948"
+    "revision": "f61e7a87af0e16deb1e18e2578ed5c95"
   },
   {
     "url": "page-data/tags/page-data.json",
@@ -758,7 +758,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/production/page-data.json",
-    "revision": "be8551cfa851350d1cae6ecd77367cd7"
+    "revision": "f574c415bdd2c0b26e0acd4178aaeca8"
   },
   {
     "url": "page-data/tags/prototyping-for-play/page-data.json",
@@ -885,11 +885,11 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/high-on-life/index.html",
-    "revision": "a1639654e035cf84ca821beb930c4dcc"
+    "revision": "d3d6c806626c1aca4cac96c4d01f9caa"
   },
   {
     "url": "projects/index.html",
-    "revision": "2d3c07c734491e13be7f03d679d330aa"
+    "revision": "00225715fff3efa8fe388028ff62bb2d"
   },
   {
     "url": "projects/jerrytron-com/index.html",
@@ -952,12 +952,12 @@ self.__precacheManifest = [
     "revision": "f66d8b1b7c61b32e3e3fd76372d6cdbc"
   },
   {
-    "url": "projects/rec-dog/index.html",
-    "revision": "c9a4176a238b525a04a5c836aa294999"
+    "url": "projects/recommendation-dog/index.html",
+    "revision": "ff7653510617d284593f5e7d2c704b89"
   },
   {
     "url": "projects/reel-steal/index.html",
-    "revision": "993d7130c0e6bb598e2c8cd62fb86f15"
+    "revision": "4da587aef05fa10c9a43437345bc93d3"
   },
   {
     "url": "projects/revolver/index.html",
@@ -1189,6 +1189,15 @@ self.__precacheManifest = [
   },
   {
     "url": "static/031af23c768d88387211d6c1cc4823b5/a7715/polite-dinner-extreme-grid.jpg"
+  },
+  {
+    "url": "static/03f62c27cea121996927240d2bfbad61/497c6/reel-steal-gameplay-05.png"
+  },
+  {
+    "url": "static/03f62c27cea121996927240d2bfbad61/630fb/reel-steal-gameplay-05.png"
+  },
+  {
+    "url": "static/03f62c27cea121996927240d2bfbad61/6d161/reel-steal-gameplay-05.png"
   },
   {
     "url": "static/07e120606d1b1bf4e31a457552b7da4a/0e329/ghost-dentist-vr-play-01.jpg"
@@ -1602,6 +1611,21 @@ self.__precacheManifest = [
     "url": "static/169cf4ee39097006f1d85d28289608a8/ca7e5/mysteryphone-banner.jpg"
   },
   {
+    "url": "static/1785460b0c3baef1eb2dc5896636ac29/2a4de/high-on-life-gameplay-03.png"
+  },
+  {
+    "url": "static/1785460b0c3baef1eb2dc5896636ac29/630fb/high-on-life-gameplay-03.png"
+  },
+  {
+    "url": "static/1785460b0c3baef1eb2dc5896636ac29/6d161/high-on-life-gameplay-03.png"
+  },
+  {
+    "url": "static/1785460b0c3baef1eb2dc5896636ac29/db955/high-on-life-gameplay-03.png"
+  },
+  {
+    "url": "static/1785460b0c3baef1eb2dc5896636ac29/f3583/high-on-life-gameplay-03.png"
+  },
+  {
     "url": "static/18f4cf9d3e45a62a8ed8bd0c0cd11775/06e94/mini-mini-dragon-golf-01.jpg"
   },
   {
@@ -1779,6 +1803,24 @@ self.__precacheManifest = [
     "url": "static/1feb4e0266eafc514f99c9785d334771/aabdf/ghost-dentist-vr-jam-screenshot-01.jpg"
   },
   {
+    "url": "static/206a39a356039a72cce2fce5a3338828/46bc1/recdog-title.png"
+  },
+  {
+    "url": "static/206a39a356039a72cce2fce5a3338828/690a3/recdog-title.png"
+  },
+  {
+    "url": "static/206a39a356039a72cce2fce5a3338828/78948/recdog-title.png"
+  },
+  {
+    "url": "static/206a39a356039a72cce2fce5a3338828/7e7e9/recdog-title.png"
+  },
+  {
+    "url": "static/206a39a356039a72cce2fce5a3338828/a5370/recdog-title.png"
+  },
+  {
+    "url": "static/206a39a356039a72cce2fce5a3338828/e7519/recdog-title.png"
+  },
+  {
     "url": "static/2173a229457dd2dad0b47e4531ff8b84/0e329/final-retirement-saga-team.jpg"
   },
   {
@@ -1920,6 +1962,15 @@ self.__precacheManifest = [
     "url": "static/2b6800c8bb1eb9df97c3b954c49f787d/aabdf/tastemmals-insert-marinade.jpg"
   },
   {
+    "url": "static/2fa38facc6830f9f09f9fb5b06b25b0c/497c6/reel-steal-gameplay-03.png"
+  },
+  {
+    "url": "static/2fa38facc6830f9f09f9fb5b06b25b0c/630fb/reel-steal-gameplay-03.png"
+  },
+  {
+    "url": "static/2fa38facc6830f9f09f9fb5b06b25b0c/6d161/reel-steal-gameplay-03.png"
+  },
+  {
     "url": "static/30c84165eecc8f24d9c920455c21b38c/2390e/choosatron-game-science-center-01.jpg"
   },
   {
@@ -1969,15 +2020,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/317ff379aa192026ede418983cbd0d2a/ca7e5/tank-top-banner.jpg"
-  },
-  {
-    "url": "static/31f1aed56740a926cbce77fd9703e67c/497c6/reel-steal-gameplay-04.png"
-  },
-  {
-    "url": "static/31f1aed56740a926cbce77fd9703e67c/630fb/reel-steal-gameplay-04.png"
-  },
-  {
-    "url": "static/31f1aed56740a926cbce77fd9703e67c/6d161/reel-steal-gameplay-04.png"
   },
   {
     "url": "static/32db04da6d2e9767d1ba3454420e1b9a/0e329/burning-ritual-play-05.jpg"
@@ -2331,15 +2373,6 @@ self.__precacheManifest = [
     "url": "static/45e3e388ff3168c7dc5504e8eac8b9f2/fc081/choosatron-bit-bash-01.jpg"
   },
   {
-    "url": "static/4728164da34d2df48ae0d7ce214b8378/497c6/reel-steal-gameplay-03.png"
-  },
-  {
-    "url": "static/4728164da34d2df48ae0d7ce214b8378/630fb/reel-steal-gameplay-03.png"
-  },
-  {
-    "url": "static/4728164da34d2df48ae0d7ce214b8378/6d161/reel-steal-gameplay-03.png"
-  },
-  {
     "url": "static/482012f25039f8e75c3de553be5e7de3/0e329/messy-crossings-play-02.jpg"
   },
   {
@@ -2479,6 +2512,15 @@ self.__precacheManifest = [
   },
   {
     "url": "static/5073d44b79bab66b1892d8ebe8f89d54/aabdf/ghost-dentist-vr-play-04.jpg"
+  },
+  {
+    "url": "static/5155e7d35d0c65a9870dd9221016729e/497c6/recdog-gameplay-02.png"
+  },
+  {
+    "url": "static/5155e7d35d0c65a9870dd9221016729e/630fb/recdog-gameplay-02.png"
+  },
+  {
+    "url": "static/5155e7d35d0c65a9870dd9221016729e/6d161/recdog-gameplay-02.png"
   },
   {
     "url": "static/522969c8a1fafc6ad224cc12593a5149/06e94/q-car.jpg"
@@ -2667,15 +2709,6 @@ self.__precacheManifest = [
     "url": "static/5af38b8ebc4519d962acc972cca6486c/aabdf/dyscourse-screenshot-01.jpg"
   },
   {
-    "url": "static/5cc8de8a58d240f7c437e75586027acc/497c6/reel-steal-gameplay-02.png"
-  },
-  {
-    "url": "static/5cc8de8a58d240f7c437e75586027acc/630fb/reel-steal-gameplay-02.png"
-  },
-  {
-    "url": "static/5cc8de8a58d240f7c437e75586027acc/6d161/reel-steal-gameplay-02.png"
-  },
-  {
     "url": "static/5fc10f9d2ea18d9785978d12ecae65f0/0e329/dark-side-of-balloon-title.jpg"
   },
   {
@@ -2722,21 +2755,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/6265dcbece9091e4046b7d3e60e8de9b/aabdf/robo-manas-cooking-kitchen-veggies.jpg"
-  },
-  {
-    "url": "static/63e2f0d33ce8594998af0a2ef6c54c29/2a4de/high-on-life-gameplay-01.png"
-  },
-  {
-    "url": "static/63e2f0d33ce8594998af0a2ef6c54c29/630fb/high-on-life-gameplay-01.png"
-  },
-  {
-    "url": "static/63e2f0d33ce8594998af0a2ef6c54c29/6d161/high-on-life-gameplay-01.png"
-  },
-  {
-    "url": "static/63e2f0d33ce8594998af0a2ef6c54c29/db955/high-on-life-gameplay-01.png"
-  },
-  {
-    "url": "static/63e2f0d33ce8594998af0a2ef6c54c29/f3583/high-on-life-gameplay-01.png"
   },
   {
     "url": "static/64f8862311541f4b64aff0c13c8caef3/0e329/nature-machn-sprouts-03.jpg"
@@ -3225,6 +3243,15 @@ self.__precacheManifest = [
     "url": "static/7b6451fabe6b0916f2bb33bb6406758e/aabdf/jerrytron-com-mobile-projects.jpg"
   },
   {
+    "url": "static/7bdff0169922c9052c70837201745f52/497c6/reel-steal-gameplay-04.png"
+  },
+  {
+    "url": "static/7bdff0169922c9052c70837201745f52/630fb/reel-steal-gameplay-04.png"
+  },
+  {
+    "url": "static/7bdff0169922c9052c70837201745f52/6d161/reel-steal-gameplay-04.png"
+  },
+  {
     "url": "static/7c5fc6c27f813bbf60684e88b814bdb1/0e329/convergence-bad-guys-marshmallow-02.jpg"
   },
   {
@@ -3274,6 +3301,21 @@ self.__precacheManifest = [
   },
   {
     "url": "static/7cdfa43fbc8fd9903883efeb7adcb683/aabdf/please-stand-by-banner.jpg"
+  },
+  {
+    "url": "static/7d4093effb7e9f9b165153f439bc2caf/2a4de/high-on-life-gameplay-01.png"
+  },
+  {
+    "url": "static/7d4093effb7e9f9b165153f439bc2caf/630fb/high-on-life-gameplay-01.png"
+  },
+  {
+    "url": "static/7d4093effb7e9f9b165153f439bc2caf/6d161/high-on-life-gameplay-01.png"
+  },
+  {
+    "url": "static/7d4093effb7e9f9b165153f439bc2caf/db955/high-on-life-gameplay-01.png"
+  },
+  {
+    "url": "static/7d4093effb7e9f9b165153f439bc2caf/f3583/high-on-life-gameplay-01.png"
   },
   {
     "url": "static/7f442ed03a5f4d98f90af12baf011dd8/0e329/jerrytron-com-project.jpg"
@@ -3348,21 +3390,6 @@ self.__precacheManifest = [
     "url": "static/8057353a19f457f67da5c7ba4db2bbc9/ca7e5/a-maze-magazines.jpg"
   },
   {
-    "url": "static/81b556181f5097b72b412e4f8c6d0422/2a4de/high-on-life-gameplay-02.png"
-  },
-  {
-    "url": "static/81b556181f5097b72b412e4f8c6d0422/630fb/high-on-life-gameplay-02.png"
-  },
-  {
-    "url": "static/81b556181f5097b72b412e4f8c6d0422/6d161/high-on-life-gameplay-02.png"
-  },
-  {
-    "url": "static/81b556181f5097b72b412e4f8c6d0422/db955/high-on-life-gameplay-02.png"
-  },
-  {
-    "url": "static/81b556181f5097b72b412e4f8c6d0422/f3583/high-on-life-gameplay-02.png"
-  },
-  {
     "url": "static/822e503776114993ee1412c9db36e5a9/0e329/cute-em-up-screenshot-03.jpg"
   },
   {
@@ -3399,6 +3426,15 @@ self.__precacheManifest = [
     "url": "static/82e513e06a68569078c8e94c1e0219f1/aabdf/channel-hardware-chain.jpg"
   },
   {
+    "url": "static/830a513727bac79b9a39459bccbf453a/497c6/recdog-gameplay-03.png"
+  },
+  {
+    "url": "static/830a513727bac79b9a39459bccbf453a/630fb/recdog-gameplay-03.png"
+  },
+  {
+    "url": "static/830a513727bac79b9a39459bccbf453a/6d161/recdog-gameplay-03.png"
+  },
+  {
     "url": "static/83effe82704b9bba3abb7708cf6ae4f9/2390e/choosatron-game-science-center-06.jpg"
   },
   {
@@ -3415,6 +3451,15 @@ self.__precacheManifest = [
   },
   {
     "url": "static/83effe82704b9bba3abb7708cf6ae4f9/fc081/choosatron-game-science-center-06.jpg"
+  },
+  {
+    "url": "static/844172708caff10697c0dd7409159d5b/497c6/recdog-gameplay-04.png"
+  },
+  {
+    "url": "static/844172708caff10697c0dd7409159d5b/630fb/recdog-gameplay-04.png"
+  },
+  {
+    "url": "static/844172708caff10697c0dd7409159d5b/6d161/recdog-gameplay-04.png"
   },
   {
     "url": "static/845eb68d63108d7dc33d394f41cbfdc4/47498/robo-manas-cooking-kitchen-progress.jpg"
@@ -3538,15 +3583,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/884aa52891f2753717ff6335a2180200/fc081/alt-ctrl-award-laser-cutting-01.jpg"
-  },
-  {
-    "url": "static/88d6626e261a1206afc24a3d9de76d17/497c6/reel-steal-gameplay-05.png"
-  },
-  {
-    "url": "static/88d6626e261a1206afc24a3d9de76d17/630fb/reel-steal-gameplay-05.png"
-  },
-  {
-    "url": "static/88d6626e261a1206afc24a3d9de76d17/6d161/reel-steal-gameplay-05.png"
   },
   {
     "url": "static/8ac609151ce44ee440b0a169bc88da83/06e94/please-stand-by-grid.jpg"
@@ -4251,27 +4287,6 @@ self.__precacheManifest = [
     "url": "static/9f03c269b007460e9ee91e2e0ab99392/fc081/dark-side-of-balloon-screenshot-04.jpg"
   },
   {
-    "url": "static/9f03e245374e6adfdca074ae653e803d/2a4de/high-on-life-title.png"
-  },
-  {
-    "url": "static/9f03e245374e6adfdca074ae653e803d/62b1f/high-on-life-title.png"
-  },
-  {
-    "url": "static/9f03e245374e6adfdca074ae653e803d/690a3/high-on-life-title.png"
-  },
-  {
-    "url": "static/9f03e245374e6adfdca074ae653e803d/78948/high-on-life-title.png"
-  },
-  {
-    "url": "static/9f03e245374e6adfdca074ae653e803d/7e7e9/high-on-life-title.png"
-  },
-  {
-    "url": "static/9f03e245374e6adfdca074ae653e803d/e7519/high-on-life-title.png"
-  },
-  {
-    "url": "static/9f03e245374e6adfdca074ae653e803d/f1dd6/high-on-life-title.png"
-  },
-  {
     "url": "static/9f0e19fc3f17c047ac65fb63938f9731/06e94/ghost-dentist-vr-grid.jpg"
   },
   {
@@ -4455,6 +4470,27 @@ self.__precacheManifest = [
     "url": "static/ac15cae51e3d14b92a241578ef6140d6/aabdf/a-maze-magazine-no_04-cover.jpg"
   },
   {
+    "url": "static/ac67a22e46fdc2e0ba90565030dbde1d/2a4de/high-on-life-title.png"
+  },
+  {
+    "url": "static/ac67a22e46fdc2e0ba90565030dbde1d/62b1f/high-on-life-title.png"
+  },
+  {
+    "url": "static/ac67a22e46fdc2e0ba90565030dbde1d/690a3/high-on-life-title.png"
+  },
+  {
+    "url": "static/ac67a22e46fdc2e0ba90565030dbde1d/78948/high-on-life-title.png"
+  },
+  {
+    "url": "static/ac67a22e46fdc2e0ba90565030dbde1d/7e7e9/high-on-life-title.png"
+  },
+  {
+    "url": "static/ac67a22e46fdc2e0ba90565030dbde1d/e7519/high-on-life-title.png"
+  },
+  {
+    "url": "static/ac67a22e46fdc2e0ba90565030dbde1d/f1dd6/high-on-life-title.png"
+  },
+  {
     "url": "static/acfea34af85ab6dd4de73aefec44346d/47498/afterglow-play.jpg"
   },
   {
@@ -4504,6 +4540,21 @@ self.__precacheManifest = [
   },
   {
     "url": "static/ad76f0974d27dfd7bf3bb9450794e922/aabdf/tank-top-fantastic-arcade-01.jpg"
+  },
+  {
+    "url": "static/ae32b4be22f07de942fb41b06b811674/2a4de/high-on-life-gameplay-02.png"
+  },
+  {
+    "url": "static/ae32b4be22f07de942fb41b06b811674/630fb/high-on-life-gameplay-02.png"
+  },
+  {
+    "url": "static/ae32b4be22f07de942fb41b06b811674/6d161/high-on-life-gameplay-02.png"
+  },
+  {
+    "url": "static/ae32b4be22f07de942fb41b06b811674/db955/high-on-life-gameplay-02.png"
+  },
+  {
+    "url": "static/ae32b4be22f07de942fb41b06b811674/f3583/high-on-life-gameplay-02.png"
   },
   {
     "url": "static/aed8b8a9f5d07d6289f197e3a5140ffc/0e329/nature-machn-sprouts-01.jpg"
@@ -4920,21 +4971,6 @@ self.__precacheManifest = [
     "url": "static/b991330caedfa21c28b8600b8c319fb5/fc081/dark-side-of-balloon-screenshot-02.jpg"
   },
   {
-    "url": "static/baca10c7c1f3a8fc73f4c7750b768c62/2a4de/high-on-life-gameplay-03.png"
-  },
-  {
-    "url": "static/baca10c7c1f3a8fc73f4c7750b768c62/630fb/high-on-life-gameplay-03.png"
-  },
-  {
-    "url": "static/baca10c7c1f3a8fc73f4c7750b768c62/6d161/high-on-life-gameplay-03.png"
-  },
-  {
-    "url": "static/baca10c7c1f3a8fc73f4c7750b768c62/db955/high-on-life-gameplay-03.png"
-  },
-  {
-    "url": "static/baca10c7c1f3a8fc73f4c7750b768c62/f3583/high-on-life-gameplay-03.png"
-  },
-  {
     "url": "static/bb13026dfafd69aa09fa6a9e8e5657c6/0e329/zig-zegg-inside.jpg"
   },
   {
@@ -4969,15 +5005,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/bbbc976c6c1c0343bdf10356416ff25f/5c348/jerry-pixel-tiny.png"
-  },
-  {
-    "url": "static/bc630b40762bee38a0db6de2753e016c/497c6/reel-steal-gameplay-01.png"
-  },
-  {
-    "url": "static/bc630b40762bee38a0db6de2753e016c/630fb/reel-steal-gameplay-01.png"
-  },
-  {
-    "url": "static/bc630b40762bee38a0db6de2753e016c/6d161/reel-steal-gameplay-01.png"
   },
   {
     "url": "static/bd47a7d692f5b8e6a2f5c2edb0b8ebba/0e329/home-jerry-belich.jpg"
@@ -5080,6 +5107,15 @@ self.__precacheManifest = [
   },
   {
     "url": "static/bed0a9effd300dd02735d238a6a1407a/aabdf/cute-em-up-button-control-02.jpg"
+  },
+  {
+    "url": "static/bfb2c7e7b51aada98b5b0acabf358f74/497c6/reel-steal-gameplay-02.png"
+  },
+  {
+    "url": "static/bfb2c7e7b51aada98b5b0acabf358f74/630fb/reel-steal-gameplay-02.png"
+  },
+  {
+    "url": "static/bfb2c7e7b51aada98b5b0acabf358f74/6d161/reel-steal-gameplay-02.png"
   },
   {
     "url": "static/bfd36596c3d652b18b6c9081344bd799/0e329/channel-video-input.jpg"
@@ -5424,42 +5460,6 @@ self.__precacheManifest = [
     "url": "static/cdc782f1a281e78b10efb9612fc8cf3b/aabdf/channel-motor-belts.jpg"
   },
   {
-    "url": "static/ce47e5b308611e469b8cb398d0a307a1/2a4de/missing-image.png"
-  },
-  {
-    "url": "static/ce47e5b308611e469b8cb398d0a307a1/62b1f/missing-image.png"
-  },
-  {
-    "url": "static/ce47e5b308611e469b8cb398d0a307a1/630fb/missing-image.png"
-  },
-  {
-    "url": "static/ce47e5b308611e469b8cb398d0a307a1/690a3/missing-image.png"
-  },
-  {
-    "url": "static/ce47e5b308611e469b8cb398d0a307a1/6d161/missing-image.png"
-  },
-  {
-    "url": "static/ce47e5b308611e469b8cb398d0a307a1/6ec5a/missing-image.png"
-  },
-  {
-    "url": "static/ce47e5b308611e469b8cb398d0a307a1/78948/missing-image.png"
-  },
-  {
-    "url": "static/ce47e5b308611e469b8cb398d0a307a1/7e7e9/missing-image.png"
-  },
-  {
-    "url": "static/ce47e5b308611e469b8cb398d0a307a1/e2e7f/missing-image.png"
-  },
-  {
-    "url": "static/ce47e5b308611e469b8cb398d0a307a1/e7519/missing-image.png"
-  },
-  {
-    "url": "static/ce47e5b308611e469b8cb398d0a307a1/ee604/missing-image.png"
-  },
-  {
-    "url": "static/ce47e5b308611e469b8cb398d0a307a1/f1dd6/missing-image.png"
-  },
-  {
     "url": "static/d082435adccea5d793f492cc5065ed7e/0e329/alt-ctrl-award-board.jpg"
   },
   {
@@ -5530,6 +5530,15 @@ self.__precacheManifest = [
   },
   {
     "url": "static/d14822de915be9ba53e4628fa6427e42/aabdf/gerry-game-won-play-02.jpg"
+  },
+  {
+    "url": "static/d4d4ee8f6a447cff09149d498c1ef658/497c6/reel-steal-gameplay-01.png"
+  },
+  {
+    "url": "static/d4d4ee8f6a447cff09149d498c1ef658/630fb/reel-steal-gameplay-01.png"
+  },
+  {
+    "url": "static/d4d4ee8f6a447cff09149d498c1ef658/6d161/reel-steal-gameplay-01.png"
   },
   {
     "url": "static/d4f6c6a5ee2529cc1f1b1db3bc2a1944/47498/channel-preview-monitor.jpg"
@@ -5614,6 +5623,15 @@ self.__precacheManifest = [
   },
   {
     "url": "static/dbaf275ebb31783f6a9567cd702af97d/aabdf/dial-play.jpg"
+  },
+  {
+    "url": "static/dbb55743a76d78b60942ab0f3ecd122a/497c6/recdog-gameplay-01.png"
+  },
+  {
+    "url": "static/dbb55743a76d78b60942ab0f3ecd122a/630fb/recdog-gameplay-01.png"
+  },
+  {
+    "url": "static/dbb55743a76d78b60942ab0f3ecd122a/6d161/recdog-gameplay-01.png"
   },
   {
     "url": "static/dc73f6aa172a7ccd5a6180bae4c64398/0e329/alt-ctrl-award-laser-plan.jpg"
@@ -6051,6 +6069,15 @@ self.__precacheManifest = [
     "url": "static/f1469ae7fe67fecebc512576cb472181/ca7e5/mushm-gardn-banner.jpg"
   },
   {
+    "url": "static/f17b9d4bc49a9c1f19d137fce51cd97c/497c6/recdog-gameplay-05.png"
+  },
+  {
+    "url": "static/f17b9d4bc49a9c1f19d137fce51cd97c/630fb/recdog-gameplay-05.png"
+  },
+  {
+    "url": "static/f17b9d4bc49a9c1f19d137fce51cd97c/6d161/recdog-gameplay-05.png"
+  },
+  {
     "url": "static/f25134d8ff50e5677726b00ae7479a21/0e329/sloppy-shopping-screenshot-04.jpg"
   },
   {
@@ -6247,7 +6274,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/alt-ctrl/index.html",
-    "revision": "87a3e37be53c536b7b377f90a843b489"
+    "revision": "5366b53d5d5ded64a7324b4008d30bc0"
   },
   {
     "url": "tags/animation-fx/index.html",
@@ -6259,7 +6286,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/client-work/index.html",
-    "revision": "8c5a8f60e5d9f6f39252e98b275dcb36"
+    "revision": "453858f3160f7f6f6f286c698f461c33"
   },
   {
     "url": "tags/commissioned/index.html",
@@ -6271,7 +6298,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/digital/index.html",
-    "revision": "e15b457307e181c69ed15712ab936e6b"
+    "revision": "f361fdee59a7b5451d2c2d1a83f27232"
   },
   {
     "url": "tags/escape-room/index.html",
@@ -6283,7 +6310,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/game-design/index.html",
-    "revision": "3c438e17f9d8cefc02e09712ce7101ae"
+    "revision": "7369f2818a7945ce86558e11af3c78f0"
   },
   {
     "url": "tags/game-jam/index.html",
@@ -6307,7 +6334,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/narrative/index.html",
-    "revision": "612aacd3a014869f2571bfb5a21f6083"
+    "revision": "38d0b57925eeca2b82605798beb9cf5b"
   },
   {
     "url": "tags/poetry/index.html",
@@ -6319,7 +6346,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/production/index.html",
-    "revision": "eb9ffe865fb7b25489c0d0823142c4d1"
+    "revision": "e3cca5197a75feb6c83d44debc44b5bc"
   },
   {
     "url": "tags/prototyping-for-play/index.html",

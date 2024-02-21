@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_portfolio=self.webpackChunkgatsby_portfolio||[]).push([[432],{4129:function(o,e,l){l.r(e);l(6540);var u=l(1606),n=l(6152);e.default=()=>(0,n.Y)(u.A,null,(0,n.Y)("h1",null,"About me"),(0,n.Y)("p",null,"I’m good enough, I’m smart enough, and gosh darn it, people like me!"))}}]);
+//# sourceMappingURL=component---src-pages-about-js-93f1159c66a653862668.js.map

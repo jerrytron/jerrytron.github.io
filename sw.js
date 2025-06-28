@@ -515,7 +515,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/ghost-dentist-vr/page-data.json",
-    "revision": "2901a966f3f727cae66b181f35cce915"
+    "revision": "77155096c9c2add9fb8043536ff63fe4"
   },
   {
     "url": "page-data/projects/high-on-knife/page-data.json",
@@ -563,7 +563,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/page-data.json",
-    "revision": "5e8efcb18410e8f48d493082e5dfd58a"
+    "revision": "4366eb7f8eda88f4ace0b119ef3a1534"
   },
   {
     "url": "page-data/projects/please-stand-by/page-data.json",
@@ -687,7 +687,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/alt-ctrl/page-data.json",
-    "revision": "4342d2eb737be299a959917074377f0d"
+    "revision": "6e3ac1180111d47e2a421a0332cfc02d"
   },
   {
     "url": "page-data/tags/animation-fx/page-data.json",
@@ -699,7 +699,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/client-work/page-data.json",
-    "revision": "f04772d6dd819c345eec4278fd495fd5"
+    "revision": "ae008b9e74775bc8c81a8831a39fa3d1"
   },
   {
     "url": "page-data/tags/commissioned/page-data.json",
@@ -711,7 +711,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/digital/page-data.json",
-    "revision": "ea9499a7b04a62d973958923441e1c51"
+    "revision": "be0f68f353fbdcb865d7107ddf22757b"
   },
   {
     "url": "page-data/tags/dlc/page-data.json",
@@ -727,7 +727,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/game-design/page-data.json",
-    "revision": "b07417867513938961be0cb6530dd22d"
+    "revision": "91c622cc73cf684a0a0ee3d4f0baa35f"
   },
   {
     "url": "page-data/tags/game-jam/page-data.json",
@@ -883,7 +883,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/ghost-dentist-vr/index.html",
-    "revision": "783b5869564a59d154e6ebb6e6ebc702"
+    "revision": "0997a470efff41ae004cd81ef96825f1"
   },
   {
     "url": "projects/high-on-knife/index.html",
@@ -895,7 +895,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/index.html",
-    "revision": "c8d4f2397d4396501d0b30cd9a2819e0"
+    "revision": "c2890541fffd9c40fa0a7d060943a6ba"
   },
   {
     "url": "projects/jerrytron-com/index.html",
@@ -6550,7 +6550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/alt-ctrl/index.html",
-    "revision": "62e85525d0b44964692fa97488063cea"
+    "revision": "305a1517af0ae179fb8fab4e1499043c"
   },
   {
     "url": "tags/animation-fx/index.html",
@@ -6562,7 +6562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/client-work/index.html",
-    "revision": "34100753af2e870ada153f2f79b51a1f"
+    "revision": "5211478d063c13c32e1dc4b307eeb419"
   },
   {
     "url": "tags/commissioned/index.html",
@@ -6574,7 +6574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/digital/index.html",
-    "revision": "d309a96aba36cab41c1ee19d73be643d"
+    "revision": "4a963b3c12b9594e092248bfd897ee88"
   },
   {
     "url": "tags/dlc/index.html",
@@ -6590,7 +6590,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/game-design/index.html",
-    "revision": "4e660f1fc5468fb44c22db975ddd7ebe"
+    "revision": "15eeb66ec5419023e635cfbf611d0c14"
   },
   {
     "url": "tags/game-jam/index.html",

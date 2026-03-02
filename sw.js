@@ -523,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/high-on-life-2/page-data.json",
-    "revision": "995fd7a644db5d88e552e96762b5047b"
+    "revision": "365dbce792481156d839eb589e8c95cd"
   },
   {
     "url": "page-data/projects/high-on-life/page-data.json",
@@ -567,7 +567,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/page-data.json",
-    "revision": "9327d8ca4766ae418ef57eb8657b4630"
+    "revision": "49a0b90392d0547da97386ac5cf04a48"
   },
   {
     "url": "page-data/projects/please-stand-by/page-data.json",
@@ -691,7 +691,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/alt-ctrl/page-data.json",
-    "revision": "6e3ac1180111d47e2a421a0332cfc02d"
+    "revision": "7c4790ca64df14d27d0df1f7e01a094b"
   },
   {
     "url": "page-data/tags/animation-fx/page-data.json",
@@ -735,7 +735,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/game-jam/page-data.json",
-    "revision": "8cbb66d1ccbee1f490d7077df10161cf"
+    "revision": "50155cd4333d023fce95a073909691af"
   },
   {
     "url": "page-data/tags/installation/page-data.json",
@@ -895,7 +895,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/high-on-life-2/index.html",
-    "revision": "b54b076da5ce413f25f65cadf13f625e"
+    "revision": "0abd03ac7f49773f343165befc9eb046"
   },
   {
     "url": "projects/high-on-life/index.html",
@@ -903,7 +903,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/index.html",
-    "revision": "b3d26cac7098da295314f38852a6d1fe"
+    "revision": "7847ef64eb7a9439adf9bcfd8ec130ef"
   },
   {
     "url": "projects/jerrytron-com/index.html",
@@ -6738,7 +6738,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/alt-ctrl/index.html",
-    "revision": "f6a745d1b0caf9773efbb5d24bcfd0be"
+    "revision": "5ea54a9744054d652203ea81a861b6a5"
   },
   {
     "url": "tags/animation-fx/index.html",
@@ -6782,7 +6782,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/game-jam/index.html",
-    "revision": "4c02790b3d62c585f5a2d71b288ac3f5"
+    "revision": "9ac715df68bfda97ccf51012e40ce640"
   },
   {
     "url": "tags/index.html",

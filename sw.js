@@ -523,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/high-on-life-2/page-data.json",
-    "revision": "365dbce792481156d839eb589e8c95cd"
+    "revision": "72663f8e2426ca9155527537abd50446"
   },
   {
     "url": "page-data/projects/high-on-life/page-data.json",
@@ -567,7 +567,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/page-data.json",
-    "revision": "49a0b90392d0547da97386ac5cf04a48"
+    "revision": "198283b31509c18ec94e0134663194b9"
   },
   {
     "url": "page-data/projects/please-stand-by/page-data.json",
@@ -691,7 +691,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/alt-ctrl/page-data.json",
-    "revision": "7c4790ca64df14d27d0df1f7e01a094b"
+    "revision": "6e3ac1180111d47e2a421a0332cfc02d"
   },
   {
     "url": "page-data/tags/animation-fx/page-data.json",
@@ -715,7 +715,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/digital/page-data.json",
-    "revision": "8e20de4f1e6af45e00275a6998834b9d"
+    "revision": "036ba046a75b265ed6e1d739c6680410"
   },
   {
     "url": "page-data/tags/dlc/page-data.json",
@@ -731,11 +731,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/game-design/page-data.json",
-    "revision": "6f0873a2c1d0d9547ad1b6fdfcf12bac"
+    "revision": "fcea334ee1d440e0569add2b738f3ae0"
   },
   {
     "url": "page-data/tags/game-jam/page-data.json",
-    "revision": "50155cd4333d023fce95a073909691af"
+    "revision": "8cbb66d1ccbee1f490d7077df10161cf"
   },
   {
     "url": "page-data/tags/installation/page-data.json",
@@ -751,7 +751,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/narrative/page-data.json",
-    "revision": "f8e41218d125c6778aea5d16dc0c865b"
+    "revision": "576be68e698c5472460c2b0494dbb8d3"
   },
   {
     "url": "page-data/tags/page-data.json",
@@ -767,7 +767,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/production/page-data.json",
-    "revision": "f10e99012ac80a020f9425fdcdf48ac8"
+    "revision": "7943eac753e5cff00a1934c622864599"
   },
   {
     "url": "page-data/tags/prototyping-for-play/page-data.json",
@@ -895,7 +895,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/high-on-life-2/index.html",
-    "revision": "0abd03ac7f49773f343165befc9eb046"
+    "revision": "c3a2ae245a0c73106ea2c967b72a31dd"
   },
   {
     "url": "projects/high-on-life/index.html",
@@ -903,7 +903,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/index.html",
-    "revision": "7847ef64eb7a9439adf9bcfd8ec130ef"
+    "revision": "366a60f0542c1d1e3e55e7611700699f"
   },
   {
     "url": "projects/jerrytron-com/index.html",
@@ -1086,24 +1086,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/0018a19efc25ee922eb9218b3bd9c4d1/aabdf/a-maze-magazine-covers.jpg"
-  },
-  {
-    "url": "static/0064572fbdc6b6dfbc347a8d232456c1/27fce/high-on-life-2-gameplay-05.jpg"
-  },
-  {
-    "url": "static/0064572fbdc6b6dfbc347a8d232456c1/47498/high-on-life-2-gameplay-05.jpg"
-  },
-  {
-    "url": "static/0064572fbdc6b6dfbc347a8d232456c1/4fe8c/high-on-life-2-gameplay-05.jpg"
-  },
-  {
-    "url": "static/0064572fbdc6b6dfbc347a8d232456c1/9842e/high-on-life-2-gameplay-05.jpg"
-  },
-  {
-    "url": "static/0064572fbdc6b6dfbc347a8d232456c1/9dc27/high-on-life-2-gameplay-05.jpg"
-  },
-  {
-    "url": "static/0064572fbdc6b6dfbc347a8d232456c1/aabdf/high-on-life-2-gameplay-05.jpg"
   },
   {
     "url": "static/009ea3d4afc18ad913564f757560064e/0e329/q-car-inside.jpg"
@@ -1835,6 +1817,24 @@ self.__precacheManifest = [
     "url": "static/1feb4e0266eafc514f99c9785d334771/aabdf/ghost-dentist-vr-jam-screenshot-01.jpg"
   },
   {
+    "url": "static/201838bc84e0889dec9d084c168ab622/27fce/high-on-life-2-gameplay-02.jpg"
+  },
+  {
+    "url": "static/201838bc84e0889dec9d084c168ab622/47498/high-on-life-2-gameplay-02.jpg"
+  },
+  {
+    "url": "static/201838bc84e0889dec9d084c168ab622/4fe8c/high-on-life-2-gameplay-02.jpg"
+  },
+  {
+    "url": "static/201838bc84e0889dec9d084c168ab622/9842e/high-on-life-2-gameplay-02.jpg"
+  },
+  {
+    "url": "static/201838bc84e0889dec9d084c168ab622/9dc27/high-on-life-2-gameplay-02.jpg"
+  },
+  {
+    "url": "static/201838bc84e0889dec9d084c168ab622/aabdf/high-on-life-2-gameplay-02.jpg"
+  },
+  {
     "url": "static/206a39a356039a72cce2fce5a3338828/46bc1/recdog-title.png"
   },
   {
@@ -2405,22 +2405,22 @@ self.__precacheManifest = [
     "url": "static/412d7bd485d494170f2a324e0e59bfb5/ca7e5/convergence-bad-guys-title.jpg"
   },
   {
-    "url": "static/41c4e64df8c169324a02567310caf71a/27fce/high-on-life-2-gameplay-08.jpg"
+    "url": "static/42bedc31d1b2a20fa68842ba7bc6912f/27fce/high-on-life-2-gameplay-03.jpg"
   },
   {
-    "url": "static/41c4e64df8c169324a02567310caf71a/47498/high-on-life-2-gameplay-08.jpg"
+    "url": "static/42bedc31d1b2a20fa68842ba7bc6912f/47498/high-on-life-2-gameplay-03.jpg"
   },
   {
-    "url": "static/41c4e64df8c169324a02567310caf71a/4fe8c/high-on-life-2-gameplay-08.jpg"
+    "url": "static/42bedc31d1b2a20fa68842ba7bc6912f/4fe8c/high-on-life-2-gameplay-03.jpg"
   },
   {
-    "url": "static/41c4e64df8c169324a02567310caf71a/9842e/high-on-life-2-gameplay-08.jpg"
+    "url": "static/42bedc31d1b2a20fa68842ba7bc6912f/9842e/high-on-life-2-gameplay-03.jpg"
   },
   {
-    "url": "static/41c4e64df8c169324a02567310caf71a/9dc27/high-on-life-2-gameplay-08.jpg"
+    "url": "static/42bedc31d1b2a20fa68842ba7bc6912f/9dc27/high-on-life-2-gameplay-03.jpg"
   },
   {
-    "url": "static/41c4e64df8c169324a02567310caf71a/aabdf/high-on-life-2-gameplay-08.jpg"
+    "url": "static/42bedc31d1b2a20fa68842ba7bc6912f/aabdf/high-on-life-2-gameplay-03.jpg"
   },
   {
     "url": "static/42d504479b066929d5b86a30c34d1175/0e329/polite-dinner-extreme-play.jpg"
@@ -2618,6 +2618,42 @@ self.__precacheManifest = [
     "url": "static/48c4785b8c663742d248573565293101/ca7e5/story-structure-01.jpg"
   },
   {
+    "url": "static/497655724a823992328ae02542e7e45a/06e94/high-on-life-2-title.jpg"
+  },
+  {
+    "url": "static/497655724a823992328ae02542e7e45a/07ab6/high-on-life-2-title.jpg"
+  },
+  {
+    "url": "static/497655724a823992328ae02542e7e45a/14173/high-on-life-2-title.jpg"
+  },
+  {
+    "url": "static/497655724a823992328ae02542e7e45a/27fce/high-on-life-2-title.jpg"
+  },
+  {
+    "url": "static/497655724a823992328ae02542e7e45a/32fd5/high-on-life-2-title.jpg"
+  },
+  {
+    "url": "static/497655724a823992328ae02542e7e45a/4217b/high-on-life-2-title.jpg"
+  },
+  {
+    "url": "static/497655724a823992328ae02542e7e45a/4a838/high-on-life-2-title.jpg"
+  },
+  {
+    "url": "static/497655724a823992328ae02542e7e45a/649eb/high-on-life-2-title.jpg"
+  },
+  {
+    "url": "static/497655724a823992328ae02542e7e45a/86d47/high-on-life-2-title.jpg"
+  },
+  {
+    "url": "static/497655724a823992328ae02542e7e45a/9842e/high-on-life-2-title.jpg"
+  },
+  {
+    "url": "static/497655724a823992328ae02542e7e45a/a2c2f/high-on-life-2-title.jpg"
+  },
+  {
+    "url": "static/497655724a823992328ae02542e7e45a/ca7e5/high-on-life-2-title.jpg"
+  },
+  {
     "url": "static/4c6bf6440062cfcc9a517652d492153d/0e329/nature-machn-forest-01.jpg"
   },
   {
@@ -2688,6 +2724,24 @@ self.__precacheManifest = [
   },
   {
     "url": "static/4fc0dc4357d384ea2788035d3e426b78/aabdf/burning-ritual-play-01.jpg"
+  },
+  {
+    "url": "static/4fe19a66664ff72599b288e2221f35ab/27fce/high-on-life-2-gameplay-05.jpg"
+  },
+  {
+    "url": "static/4fe19a66664ff72599b288e2221f35ab/47498/high-on-life-2-gameplay-05.jpg"
+  },
+  {
+    "url": "static/4fe19a66664ff72599b288e2221f35ab/4fe8c/high-on-life-2-gameplay-05.jpg"
+  },
+  {
+    "url": "static/4fe19a66664ff72599b288e2221f35ab/9842e/high-on-life-2-gameplay-05.jpg"
+  },
+  {
+    "url": "static/4fe19a66664ff72599b288e2221f35ab/9dc27/high-on-life-2-gameplay-05.jpg"
+  },
+  {
+    "url": "static/4fe19a66664ff72599b288e2221f35ab/aabdf/high-on-life-2-gameplay-05.jpg"
   },
   {
     "url": "static/5073d44b79bab66b1892d8ebe8f89d54/0e329/ghost-dentist-vr-play-04.jpg"
@@ -3113,42 +3167,6 @@ self.__precacheManifest = [
     "url": "static/69d215b6979325d9f12bd1f1ea000225/fc607/compliment-machine-install-02.jpg"
   },
   {
-    "url": "static/6b2368ce349fc044b098477edc4d23d1/06e94/high-on-life-2-title.jpg"
-  },
-  {
-    "url": "static/6b2368ce349fc044b098477edc4d23d1/07ab6/high-on-life-2-title.jpg"
-  },
-  {
-    "url": "static/6b2368ce349fc044b098477edc4d23d1/14173/high-on-life-2-title.jpg"
-  },
-  {
-    "url": "static/6b2368ce349fc044b098477edc4d23d1/27fce/high-on-life-2-title.jpg"
-  },
-  {
-    "url": "static/6b2368ce349fc044b098477edc4d23d1/32fd5/high-on-life-2-title.jpg"
-  },
-  {
-    "url": "static/6b2368ce349fc044b098477edc4d23d1/4217b/high-on-life-2-title.jpg"
-  },
-  {
-    "url": "static/6b2368ce349fc044b098477edc4d23d1/4a838/high-on-life-2-title.jpg"
-  },
-  {
-    "url": "static/6b2368ce349fc044b098477edc4d23d1/649eb/high-on-life-2-title.jpg"
-  },
-  {
-    "url": "static/6b2368ce349fc044b098477edc4d23d1/86d47/high-on-life-2-title.jpg"
-  },
-  {
-    "url": "static/6b2368ce349fc044b098477edc4d23d1/9842e/high-on-life-2-title.jpg"
-  },
-  {
-    "url": "static/6b2368ce349fc044b098477edc4d23d1/a2c2f/high-on-life-2-title.jpg"
-  },
-  {
-    "url": "static/6b2368ce349fc044b098477edc4d23d1/ca7e5/high-on-life-2-title.jpg"
-  },
-  {
     "url": "static/6c9aeef500ef3e553511d8118ff23287/0e329/ghost-dentist-vr-screenshot-04.jpg"
   },
   {
@@ -3386,6 +3404,24 @@ self.__precacheManifest = [
     "url": "static/75a213a370e4df9cdbe49692ce3c36a9/aabdf/a-maze-magazine-no_00-inside.jpg"
   },
   {
+    "url": "static/762d1e59865e0a29578a7230ed10c187/27fce/high-on-life-2-gameplay-08.jpg"
+  },
+  {
+    "url": "static/762d1e59865e0a29578a7230ed10c187/47498/high-on-life-2-gameplay-08.jpg"
+  },
+  {
+    "url": "static/762d1e59865e0a29578a7230ed10c187/4fe8c/high-on-life-2-gameplay-08.jpg"
+  },
+  {
+    "url": "static/762d1e59865e0a29578a7230ed10c187/9842e/high-on-life-2-gameplay-08.jpg"
+  },
+  {
+    "url": "static/762d1e59865e0a29578a7230ed10c187/9dc27/high-on-life-2-gameplay-08.jpg"
+  },
+  {
+    "url": "static/762d1e59865e0a29578a7230ed10c187/aabdf/high-on-life-2-gameplay-08.jpg"
+  },
+  {
     "url": "static/76352d393e2ff749db72b1dc167f73ec/47498/luftrausers-arcade-internals.jpg"
   },
   {
@@ -3432,24 +3468,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/768ec9597e62bf41852149c6b9971d51/a7715/dyscourse-banner.jpg"
-  },
-  {
-    "url": "static/76f8fe803e1e6fb82d8051a9fe9beeaa/27fce/high-on-life-2-gameplay-03.jpg"
-  },
-  {
-    "url": "static/76f8fe803e1e6fb82d8051a9fe9beeaa/47498/high-on-life-2-gameplay-03.jpg"
-  },
-  {
-    "url": "static/76f8fe803e1e6fb82d8051a9fe9beeaa/4fe8c/high-on-life-2-gameplay-03.jpg"
-  },
-  {
-    "url": "static/76f8fe803e1e6fb82d8051a9fe9beeaa/9842e/high-on-life-2-gameplay-03.jpg"
-  },
-  {
-    "url": "static/76f8fe803e1e6fb82d8051a9fe9beeaa/9dc27/high-on-life-2-gameplay-03.jpg"
-  },
-  {
-    "url": "static/76f8fe803e1e6fb82d8051a9fe9beeaa/aabdf/high-on-life-2-gameplay-03.jpg"
   },
   {
     "url": "static/785dd33f13ade789f3bce07e71634040/47498/cute-em-up-button-control-01.jpg"
@@ -3714,24 +3732,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/8057353a19f457f67da5c7ba4db2bbc9/ca7e5/a-maze-magazines.jpg"
-  },
-  {
-    "url": "static/805f2801688ecf0ddd79c89d949bb368/27fce/high-on-life-2-gameplay-07.jpg"
-  },
-  {
-    "url": "static/805f2801688ecf0ddd79c89d949bb368/47498/high-on-life-2-gameplay-07.jpg"
-  },
-  {
-    "url": "static/805f2801688ecf0ddd79c89d949bb368/4fe8c/high-on-life-2-gameplay-07.jpg"
-  },
-  {
-    "url": "static/805f2801688ecf0ddd79c89d949bb368/9842e/high-on-life-2-gameplay-07.jpg"
-  },
-  {
-    "url": "static/805f2801688ecf0ddd79c89d949bb368/9dc27/high-on-life-2-gameplay-07.jpg"
-  },
-  {
-    "url": "static/805f2801688ecf0ddd79c89d949bb368/aabdf/high-on-life-2-gameplay-07.jpg"
   },
   {
     "url": "static/822e503776114993ee1412c9db36e5a9/0e329/cute-em-up-screenshot-03.jpg"
@@ -4059,24 +4059,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/8d0bbfbf1eea08f936e1deb536a790d1/aabdf/choosatron-maker-faire-03.jpg"
-  },
-  {
-    "url": "static/8dd91f20823a32aad756b8ecd9eaea71/27fce/high-on-life-2-gameplay-04.jpg"
-  },
-  {
-    "url": "static/8dd91f20823a32aad756b8ecd9eaea71/47498/high-on-life-2-gameplay-04.jpg"
-  },
-  {
-    "url": "static/8dd91f20823a32aad756b8ecd9eaea71/4fe8c/high-on-life-2-gameplay-04.jpg"
-  },
-  {
-    "url": "static/8dd91f20823a32aad756b8ecd9eaea71/9842e/high-on-life-2-gameplay-04.jpg"
-  },
-  {
-    "url": "static/8dd91f20823a32aad756b8ecd9eaea71/9dc27/high-on-life-2-gameplay-04.jpg"
-  },
-  {
-    "url": "static/8dd91f20823a32aad756b8ecd9eaea71/aabdf/high-on-life-2-gameplay-04.jpg"
   },
   {
     "url": "static/8e09cd9be83b671756cc87e59b0e3128/1faac/luftrausers-alt-ctrl-player-01.jpg"
@@ -5072,24 +5054,6 @@ self.__precacheManifest = [
     "url": "static/b153e6886b2ad15d472fe269b5253883/aabdf/please-stand-by-front-panel.jpg"
   },
   {
-    "url": "static/b1bd7391acc216e84d1f38fa4abdabe0/27fce/high-on-life-2-gameplay-06.jpg"
-  },
-  {
-    "url": "static/b1bd7391acc216e84d1f38fa4abdabe0/47498/high-on-life-2-gameplay-06.jpg"
-  },
-  {
-    "url": "static/b1bd7391acc216e84d1f38fa4abdabe0/4fe8c/high-on-life-2-gameplay-06.jpg"
-  },
-  {
-    "url": "static/b1bd7391acc216e84d1f38fa4abdabe0/9842e/high-on-life-2-gameplay-06.jpg"
-  },
-  {
-    "url": "static/b1bd7391acc216e84d1f38fa4abdabe0/9dc27/high-on-life-2-gameplay-06.jpg"
-  },
-  {
-    "url": "static/b1bd7391acc216e84d1f38fa4abdabe0/aabdf/high-on-life-2-gameplay-06.jpg"
-  },
-  {
     "url": "static/b21374c2206d7f6d18fa2d23c133b173/0e329/tastemmals-sketch.jpg"
   },
   {
@@ -5124,6 +5088,24 @@ self.__precacheManifest = [
   },
   {
     "url": "static/b2aa140c6aa7a47d3eff5e374854fd5b/aabdf/choosatron-school-01.jpg"
+  },
+  {
+    "url": "static/b2e88c8c5d2797d960311a1eef55acb9/27fce/high-on-life-2-gameplay-01.jpg"
+  },
+  {
+    "url": "static/b2e88c8c5d2797d960311a1eef55acb9/47498/high-on-life-2-gameplay-01.jpg"
+  },
+  {
+    "url": "static/b2e88c8c5d2797d960311a1eef55acb9/4fe8c/high-on-life-2-gameplay-01.jpg"
+  },
+  {
+    "url": "static/b2e88c8c5d2797d960311a1eef55acb9/9842e/high-on-life-2-gameplay-01.jpg"
+  },
+  {
+    "url": "static/b2e88c8c5d2797d960311a1eef55acb9/9dc27/high-on-life-2-gameplay-01.jpg"
+  },
+  {
+    "url": "static/b2e88c8c5d2797d960311a1eef55acb9/aabdf/high-on-life-2-gameplay-01.jpg"
   },
   {
     "url": "static/b354155118f67acb3468e4d29dfcb29c/4fe8c/fahrenheit-451-ray-bradbury.jpg"
@@ -5367,6 +5349,24 @@ self.__precacheManifest = [
   },
   {
     "url": "static/bbbc976c6c1c0343bdf10356416ff25f/5c348/jerry-pixel-tiny.png"
+  },
+  {
+    "url": "static/bcb9a33da9d361abc7c536989ceb9a34/27fce/high-on-life-2-gameplay-04.jpg"
+  },
+  {
+    "url": "static/bcb9a33da9d361abc7c536989ceb9a34/47498/high-on-life-2-gameplay-04.jpg"
+  },
+  {
+    "url": "static/bcb9a33da9d361abc7c536989ceb9a34/4fe8c/high-on-life-2-gameplay-04.jpg"
+  },
+  {
+    "url": "static/bcb9a33da9d361abc7c536989ceb9a34/9842e/high-on-life-2-gameplay-04.jpg"
+  },
+  {
+    "url": "static/bcb9a33da9d361abc7c536989ceb9a34/9dc27/high-on-life-2-gameplay-04.jpg"
+  },
+  {
+    "url": "static/bcb9a33da9d361abc7c536989ceb9a34/aabdf/high-on-life-2-gameplay-04.jpg"
   },
   {
     "url": "static/bd47a7d692f5b8e6a2f5c2edb0b8ebba/0e329/home-jerry-belich.jpg"
@@ -5804,24 +5804,6 @@ self.__precacheManifest = [
     "url": "static/cc11e9185a313fcc1a8a100bae6fd901/fc3be/alice-in-puzzleland-room-topdown.jpg"
   },
   {
-    "url": "static/cc69a17c5a5f4a90af6afef3ef6ccc3f/27fce/high-on-life-2-gameplay-01.jpg"
-  },
-  {
-    "url": "static/cc69a17c5a5f4a90af6afef3ef6ccc3f/47498/high-on-life-2-gameplay-01.jpg"
-  },
-  {
-    "url": "static/cc69a17c5a5f4a90af6afef3ef6ccc3f/4fe8c/high-on-life-2-gameplay-01.jpg"
-  },
-  {
-    "url": "static/cc69a17c5a5f4a90af6afef3ef6ccc3f/9842e/high-on-life-2-gameplay-01.jpg"
-  },
-  {
-    "url": "static/cc69a17c5a5f4a90af6afef3ef6ccc3f/9dc27/high-on-life-2-gameplay-01.jpg"
-  },
-  {
-    "url": "static/cc69a17c5a5f4a90af6afef3ef6ccc3f/aabdf/high-on-life-2-gameplay-01.jpg"
-  },
-  {
     "url": "static/cd64581aa62f9300ca41ba6c94a9766f/20896/high-on-knife-gameplay-04.jpg"
   },
   {
@@ -5856,6 +5838,24 @@ self.__precacheManifest = [
   },
   {
     "url": "static/cdc782f1a281e78b10efb9612fc8cf3b/aabdf/channel-motor-belts.jpg"
+  },
+  {
+    "url": "static/d06ebac70c4bf78cea84e2cadb37698d/27fce/high-on-life-2-gameplay-06.jpg"
+  },
+  {
+    "url": "static/d06ebac70c4bf78cea84e2cadb37698d/47498/high-on-life-2-gameplay-06.jpg"
+  },
+  {
+    "url": "static/d06ebac70c4bf78cea84e2cadb37698d/4fe8c/high-on-life-2-gameplay-06.jpg"
+  },
+  {
+    "url": "static/d06ebac70c4bf78cea84e2cadb37698d/9842e/high-on-life-2-gameplay-06.jpg"
+  },
+  {
+    "url": "static/d06ebac70c4bf78cea84e2cadb37698d/9dc27/high-on-life-2-gameplay-06.jpg"
+  },
+  {
+    "url": "static/d06ebac70c4bf78cea84e2cadb37698d/aabdf/high-on-life-2-gameplay-06.jpg"
   },
   {
     "url": "static/d082435adccea5d793f492cc5065ed7e/0e329/alt-ctrl-award-board.jpg"
@@ -6443,24 +6443,6 @@ self.__precacheManifest = [
     "url": "static/ee2d4061627585d19be7d6c2740984c7/aabdf/gerry-game-won-play-01.jpg"
   },
   {
-    "url": "static/eef944ddd0aa3903e663b5742e634b47/27fce/high-on-life-2-gameplay-02.jpg"
-  },
-  {
-    "url": "static/eef944ddd0aa3903e663b5742e634b47/47498/high-on-life-2-gameplay-02.jpg"
-  },
-  {
-    "url": "static/eef944ddd0aa3903e663b5742e634b47/4fe8c/high-on-life-2-gameplay-02.jpg"
-  },
-  {
-    "url": "static/eef944ddd0aa3903e663b5742e634b47/9842e/high-on-life-2-gameplay-02.jpg"
-  },
-  {
-    "url": "static/eef944ddd0aa3903e663b5742e634b47/9dc27/high-on-life-2-gameplay-02.jpg"
-  },
-  {
-    "url": "static/eef944ddd0aa3903e663b5742e634b47/aabdf/high-on-life-2-gameplay-02.jpg"
-  },
-  {
     "url": "static/f0f98c507c0f43c63512f2c1a245e5d4/20896/high-on-knife-gameplay-02.jpg"
   },
   {
@@ -6734,11 +6716,29 @@ self.__precacheManifest = [
     "url": "static/ff99a48eb0ee021a34433e8f27b9a0f6/aabdf/utopia-room-pedestal.jpg"
   },
   {
+    "url": "static/ffb02bc98036961175fd4e83650cf2dd/27fce/high-on-life-2-gameplay-07.jpg"
+  },
+  {
+    "url": "static/ffb02bc98036961175fd4e83650cf2dd/47498/high-on-life-2-gameplay-07.jpg"
+  },
+  {
+    "url": "static/ffb02bc98036961175fd4e83650cf2dd/4fe8c/high-on-life-2-gameplay-07.jpg"
+  },
+  {
+    "url": "static/ffb02bc98036961175fd4e83650cf2dd/9842e/high-on-life-2-gameplay-07.jpg"
+  },
+  {
+    "url": "static/ffb02bc98036961175fd4e83650cf2dd/9dc27/high-on-life-2-gameplay-07.jpg"
+  },
+  {
+    "url": "static/ffb02bc98036961175fd4e83650cf2dd/aabdf/high-on-life-2-gameplay-07.jpg"
+  },
+  {
     "url": "styles.a80c7cfe7927606a2f58.css"
   },
   {
     "url": "tags/alt-ctrl/index.html",
-    "revision": "5ea54a9744054d652203ea81a861b6a5"
+    "revision": "f6a745d1b0caf9773efbb5d24bcfd0be"
   },
   {
     "url": "tags/animation-fx/index.html",
@@ -6762,7 +6762,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/digital/index.html",
-    "revision": "2b17a45deeaf5b366a3c5428f9246771"
+    "revision": "ea09dbc2aabdf0c2a2edbe00786e1d0d"
   },
   {
     "url": "tags/dlc/index.html",
@@ -6778,11 +6778,11 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/game-design/index.html",
-    "revision": "b3bed36409233b30a3cecafeea0ceef6"
+    "revision": "b18272dca85224da19c04782694c5389"
   },
   {
     "url": "tags/game-jam/index.html",
-    "revision": "9ac715df68bfda97ccf51012e40ce640"
+    "revision": "4c02790b3d62c585f5a2d71b288ac3f5"
   },
   {
     "url": "tags/index.html",
@@ -6802,7 +6802,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/narrative/index.html",
-    "revision": "5e18d281f635f14d42b1444cc1c43969"
+    "revision": "5f188c026272423efe59262e4d483531"
   },
   {
     "url": "tags/poetry/index.html",
@@ -6814,7 +6814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/production/index.html",
-    "revision": "baad97d4eff88fc6e419bf6829d9b291"
+    "revision": "21ec20fcd7e1ef9748dbfd2efaf69024"
   },
   {
     "url": "tags/prototyping-for-play/index.html",

@@ -487,7 +487,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/projects/dark-side-of-balloon/page-data.json",
-    "revision": "d89470c439796d95fb87a28a9fb355a4"
+    "revision": "55d00c19ddf199d5a541a3057fd73869"
   },
   {
     "url": "page-data/projects/deepdive/page-data.json",
@@ -859,7 +859,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects/dark-side-of-balloon/index.html",
-    "revision": "acac74f7735363eb0d50bacab9add050"
+    "revision": "d53fe7eca53b5282540b622b6e3c862d"
   },
   {
     "url": "projects/deepdive/index.html",
